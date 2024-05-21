@@ -3259,8 +3259,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
- 
-
+    
 // }
 
 // console.log(filterString(string)); // 11330
