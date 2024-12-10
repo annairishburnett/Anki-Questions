@@ -1834,7 +1834,7 @@
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
-   
+//    let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
     
 // }
 
@@ -2914,7 +2914,7 @@
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-//    return 
+   
 // }
 
 // console.log(isAnagram(str1, str2)); // true
