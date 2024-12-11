@@ -141,9 +141,7 @@
 
 // let users = [john, pete, mary];
 
-// let usersMapped = users.map(user => ({
-    
-// }));
+// let usersMapped = 
 
 // console.log(usersMapped[0].id); // 1
 // console.log(usersMapped[0].fullName); // John Smith
@@ -3648,7 +3646,8 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-   
+  
+
   
 // }
 
