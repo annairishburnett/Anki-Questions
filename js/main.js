@@ -99,7 +99,7 @@
 
 // let boolean = true;
 
-// const convertBooleanToString =
+// const convertBooleanToString = 
 
 // console.log(convertBooleanToString(boolean)); // true
 
@@ -318,7 +318,7 @@
 // ];
 
 // function groupById(array){
-  
+    
 // }
 
 // let usersById = groupById(users);
@@ -369,7 +369,7 @@
 
 // const reverseWords = 
 
-// console.log(reverseWords(string));
+// console.log(reverseWords(string)); // battle no requires which that is victory greatest The
 
 
 
@@ -2371,6 +2371,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // function followingSecond(){
   
 
@@ -3573,7 +3592,7 @@
 
 
 
-
+//I get for in and for of loops confused... Look into the differences so I understand them
 
 // let salaries = {
 //     John: 100,
@@ -3582,10 +3601,13 @@
 // }
          
 // function calcSum(salaries){
- 
+   
 // }
 
 // console.log(calcSum(salaries));//390
+
+
+
 
 
 
