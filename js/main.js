@@ -526,6 +526,11 @@
 
 
 
+// const weather = prompt("What's the weather?").toLowerCase();
+
+
+
+
 
 
 
@@ -801,7 +806,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-  
+    
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -1874,7 +1879,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-  
+   
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1920,7 +1925,7 @@
 
 
 // function nMultiplesOfX(x, n){
-    
+   
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -2271,7 +2276,7 @@
 
 
 // function deepEqual(a, b){
- 
+  
 // }
  
  
