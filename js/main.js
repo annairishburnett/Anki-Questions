@@ -318,7 +318,7 @@
 // ];
 
 // function groupById(array){
-    
+   
 // }
 
 // let usersById = groupById(users);
@@ -2257,7 +2257,7 @@
 // };
   
 // function nth(num, list){
-    
+   
 
 // }
   
@@ -2439,15 +2439,15 @@
 
 
 // let account = {
-     
+    
 
 // }
 
 
-// account.describe();
+// console.log(account.describe()); //Acount name: Alex. Account balance: 0
 // account.credit(250);
 // account.credit(-80);
-// account.describe();
+// console.log(account.describe()); //Acount name: Alex. Account balance: 170
 
 
 
@@ -3259,7 +3259,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-   
+ 
 
 // }
 
