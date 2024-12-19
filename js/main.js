@@ -3603,7 +3603,7 @@
 // }
          
 // function calcSum(salaries){
-   
+  
 // }
 
 // console.log(calcSum(salaries));//390
