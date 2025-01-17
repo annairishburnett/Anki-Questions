@@ -62,9 +62,7 @@
 
 // let arr = [5,3,8,1];
 
-// const filterRangeInPlace = (arr, a , b) => {
-  
-// }
+// const filterRangeInPlace = 
 
 // filterRangeInPlace(arr, 1,4);
 
@@ -247,7 +245,7 @@
 
 
 // function yesOrNo(){
-  
+   
 
 // }
 
@@ -1285,11 +1283,23 @@
 // let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15];
 
 // function countPositivesSumNegatives(input){
-  
+    
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
 
+
+
+
+
+
+
+
+
+
+
+
+// let isNightTime = true;
 
 
 
