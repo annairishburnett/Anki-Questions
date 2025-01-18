@@ -644,6 +644,7 @@
 
 // const name = 'Bim Promsawad';
 
+// const initials = 
 
 // console.log(initials(name));
 
@@ -1133,10 +1134,16 @@
 
 
 // function countChar(str, letter){
- 
+    
 // }
 
 // console.log(countChar('Hello', 'l')); // 2
+
+
+
+
+
+
 
 
 
@@ -1777,14 +1784,10 @@
 
 
 
-
-
-
-
 // let string = 'Hello World';
 
 // function repeatChar(str){
-
+    
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -1827,7 +1830,7 @@
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-    
+   
 // }
 
 // console.log(squareOrSquareRoot(arr)); // [2,9,3,49,4,1]
