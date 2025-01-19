@@ -644,7 +644,7 @@
 
 // const name = 'Bim Promsawad';
 
-// const initials = 
+
 
 // console.log(initials(name));
 
@@ -1133,6 +1133,27 @@
 
 
 
+
+
+
+
+
+// let string = 'Banana';
+
+// function countBs(str){
+  
+
+// }
+
+// console.log(countBs(string));
+
+
+
+
+
+
+
+
 // function countChar(str, letter){
     
 // }
@@ -1422,7 +1443,7 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-   
+    
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -1439,9 +1460,11 @@
 
 // function howMuchILoveYou(nbPetals) {
   
+
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
+
 
 
 
@@ -1572,6 +1595,7 @@
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
     
     
+
 // }
 
 // console.log(gooseFilter(birds)); // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
@@ -1766,7 +1790,7 @@
 // };
 
 // function listToArray(list){
-  
+    
 // }
 
 // console.log(listToArray(list1));
