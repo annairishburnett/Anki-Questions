@@ -1776,10 +1776,6 @@
 
 
 
-
-
-
-
 // let array = [1,2,3];
 
 // function arrayToList(arr){
@@ -2126,12 +2122,14 @@
 
 
 
+// let string = 'hello';
+
+// function getCount(str){
+   
+// }
 
 
-
-
-
-
+// console.log(getCount(string));// 2
 
 
 
