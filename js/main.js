@@ -1215,7 +1215,7 @@
 
 // let junk = ["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"];
 
-// const findNeedle =
+// const findNeedle = 
 
 // console.log(findNeedle(junk));
 
@@ -1634,6 +1634,7 @@
 
 // function reverseArrayInPlace(arr) {
    
+
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1703,9 +1704,40 @@
 
 // let array = [1, 2, 1, 1, 3, 2];
 
-// const distinct = 
+
 
 // console.log(distinct(array)); // [1, 2, 3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function fizzBuzz(){
+   
+
+// }
+
+// fizzBuzz();
+
+
+
+
 
 
 
@@ -1744,10 +1776,15 @@
 
 
 
+
+
+
+
 // let array = [1,2,3];
 
 // function arrayToList(arr){
  
+
 // }
 
 // console.log(arrayToList(array));
@@ -2021,9 +2058,10 @@
 
 
 
-// let string = "A1, B2";
+// let string = "A1,B2";
 
 // function removeFirstAndLast(str){
+    
     
 // }
 
