@@ -2137,3 +2137,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = "This website is so funny LOL!";
+
+// function disemvowel(str){
+    
+// }
+
+// console.log(disemvowel(string)); //Ths wbst s s fnny LL!
