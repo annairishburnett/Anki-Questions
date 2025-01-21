@@ -567,7 +567,7 @@
 
 // let array = ['Hello', 'there', 'my', 'friend'];
 
-// const stars = 
+
 
 // console.log(stars(array));
 
@@ -962,6 +962,7 @@
 
 // function multiplicationTable(num){
   
+
 // }
 
 // console.log(multiplicationTable(5));
@@ -1459,7 +1460,6 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-  
 
 // }
 
@@ -1779,8 +1779,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
- 
-
+  
 // }
 
 // console.log(arrayToList(array));
@@ -1942,7 +1941,7 @@
 // };
   
 // function nth(num, list){
-   
+  
 // }
   
 // console.log(nth(1, list2)); // 3
@@ -1963,7 +1962,7 @@
 
 
 // function deepEqual(a, b){
-
+  
 // }
  
  
@@ -2125,7 +2124,7 @@
 // let string = 'hello';
 
 // function getCount(str){
-   
+    
 // }
 
 
