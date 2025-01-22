@@ -2228,3 +2228,26 @@
 // }
 
 // console.log(highAndLow(string));// "5 1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = 'middle';
+
+// function getMiddleChar(str){
+  
+// }
+
+// console.log(getMiddleChar(string)); // "dd"
