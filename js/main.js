@@ -260,7 +260,8 @@
 
 
 // function unique(arr) {
-  
+   
+
 // }
 
 // let strings = ['Hare', 'Krishna', 'Hare', 'Krishna', 'Krishna', 'Krishna', 'Hare', 'Hare', ':-O'];
@@ -1681,8 +1682,8 @@
 
 
 
-// function nMultiplesOfX(x,n){
-  
+// function nMultiplesOfX(x, n){
+   
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -1903,6 +1904,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+//I don't actually understand this at all, so not very helpful to practice it yet
+//Have to read more about lists and how they work to understand, Eloquent JavaScript explanation was confusing
 // let list = {
 //     value: 2,
 //     rest: {
@@ -1913,7 +1929,7 @@
 
 
 // function prepend(element, list) {
-    
+  
 // }
   
 // let newList = prepend(1, list);
@@ -2003,7 +2019,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-    
+   
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2104,7 +2120,7 @@
     
 // }
 
-// console.log(differenceInAges(familyAges));
+// console.log(differenceInAges(familyAges));unt
 
 
 
@@ -2154,7 +2170,7 @@
 // let string = "This website is so funny LOL!";
 
 // function disemvowel(str){
-    
+   
 // }
 
 // console.log(disemvowel(string)); //Ths wbst s s fnny LL!
@@ -2171,6 +2187,8 @@
 
 
 
+
+//Copy and paste section below, don't edit
 // fetch("https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita")
 //     .then(res => res.json()) // parse response as JSON
 //     .then(data => {
