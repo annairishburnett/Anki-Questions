@@ -2201,3 +2201,30 @@
 //     .catch(err => {
 //         console.log(`error ${err}`)
 //     });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = "1 2 3 4 5";
+
+// function highAndLow(numbers){
+   
+// }
+
+// console.log(highAndLow(string));// "5 1"
