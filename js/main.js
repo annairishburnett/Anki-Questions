@@ -2297,3 +2297,37 @@
 // console.log(isEven(50));// → true
 // console.log(isEven(75));// → false
 // console.log(isEven(-1));// → ??
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function getDaysInMonth(month) {
+    
+
+//     const daysInMonth = {
+//         1: 31, 2: 28, 3: 31, 4: 30, 5: 31, 6: 30, 
+//         7: 31, 8: 31, 9: 30, 10: 31, 11: 30, 12: 31
+//     };
+
+    
+// }
+
+
+
+// console.log(getDaysInMonth(input));
