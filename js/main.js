@@ -2265,20 +2265,18 @@
 
 
 
-let string = 'Dermatoglyphics';
+// let string = 'Dermatoglyphics';
 
-function isIsogram(str) {
-    str = str.toLowerCase();
-    let unique = new Set();
-    
-    for (let char of str) {
-        if(unique.has(char)) {
-            return false;
-        }
-        unique.add(char);
-    }
-    
-    return true;
-}
+// function isIsogram(str) {
+   
+// }
 
-console.log(isIsogram(string)); // true
+// console.log(isIsogram(string)); // true
+
+
+
+
+
+
+
+
