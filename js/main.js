@@ -82,9 +82,9 @@
 
 // let boolean = true;
 
-// const convertToBoolean = 
+// const convertBooleanToString = 
 
-// console.log(convertToBoolean(boolean)); // true
+// console.log(convertBooleanToString(boolean)); // true
 
 
 
@@ -1775,12 +1775,10 @@
 
 
 
-
-
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-  
+   
 // }
 
 // console.log(arrayToList(array));
@@ -2037,6 +2035,7 @@
 // function followingDay(){
 //     let day = prompt('Enter a day of the week to get the following day:').toLowerCase();
 
+ 
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -2170,7 +2169,7 @@
 // let string = "This website is so funny LOL!";
 
 // function disemvowel(str){
-   
+  
 // }
 
 // console.log(disemvowel(string)); //Ths wbst s s fnny LL!
@@ -2224,7 +2223,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
+  
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2242,12 +2241,23 @@
 
 
 
+//I don't understand how passing floated values (2.5) into the slice method works - look into this problem more so I understand how the solution works
 
-
-// let string = 'middle';
+// let string = 'mid';
 
 // function getMiddleChar(str){
+   
   
 // }
 
 // console.log(getMiddleChar(string)); // "dd"
+
+
+
+
+
+
+
+
+
+
