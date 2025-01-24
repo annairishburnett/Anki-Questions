@@ -2350,18 +2350,11 @@
 
 
 
-//P: You'll have to capitalize each word, check out how contractions are expected to be in the example below.
-//R: a string with every word capitalized
-//E: Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
-// Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
-//E: Contractions: the letter after the contraction should not be capitalized
-//P: Psuedo code -> see comments in solution
 
 
-let string = "How can mirrors be real if our eyes aren't real";
 
-String.prototype.toJadenCase = function () {
-    return this.split(' ').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
-};
+// let string = "How can mirrors be real if our eyes aren't real";
 
-console.log(string.toJadenCase());
+
+
+// console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
