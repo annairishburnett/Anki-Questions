@@ -645,7 +645,7 @@
 
 // const name = 'Bim Promsawad';
 
-
+// const initials = 
 
 // console.log(initials(name));
 
@@ -1272,7 +1272,7 @@
 // let nums = [1,2,3,4,5,6];
 
 // function findAverage(array) {
-   
+ 
 // }
 
 // console.log(findAverage(nums)) // 3.5
@@ -1821,7 +1821,7 @@
 // };
 
 // function listToArray(list){
-    
+ 
 // }
 
 // console.log(listToArray(list1));
@@ -1976,7 +1976,7 @@
 
 
 // function deepEqual(a, b){
-  
+   
 // }
  
  
@@ -2017,7 +2017,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-   
+    
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2246,8 +2246,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-   
-  
+//    return 
 // }
 
 // console.log(getMiddleChar(string)); // "dd"
@@ -2285,11 +2284,8 @@
 
 
 
-
-
-
 // function isEven(num){
-   
+
 
 // }
   
@@ -2316,16 +2312,22 @@
 
 
 
+//Incorrect inputs must be taken into account
+//January: 31
+//February: 28
+//March: 31
+// April: 30
+// May: 31
+// June: 30
+// July: 31
+// August: 31
+// September: 30
+// October: 31
+// November: 30
+// December: 31
 
 // function getDaysInMonth(month) {
-    
-
-//     const daysInMonth = {
-//         1: 31, 2: 28, 3: 31, 4: 30, 5: 31, 6: 30, 
-//         7: 31, 8: 31, 9: 30, 10: 31, 11: 30, 12: 31
-//     };
-
-    
+  
 // }
 
 
