@@ -205,7 +205,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-  
+ 
 // }
 
 // console.log(shuffle(arr));
@@ -1462,6 +1462,7 @@
 
 // function howMuchILoveYou(nbPetals) {
 
+
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
@@ -1778,7 +1779,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+  
 // }
 
 // console.log(arrayToList(array));
@@ -1821,7 +1822,7 @@
 // };
 
 // function listToArray(list){
- 
+  
 // }
 
 // console.log(listToArray(list1));
@@ -1881,11 +1882,31 @@
 
 
 
+// let favoriteMovies = ['The Fellowship of the Ring', 'The Princess Bride', 'Sea Beast', 'Hidden Figures', 'Pride and Prejudice'];
+
+// let lastMovie = 
+
+// console.log(lastMovie);
+
+// let favFav = 
+
+// console.log(favFav);
+
+
+
+
+
+
+
+
+
+
+
 
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-   
+  
 // }
 
 // console.log(squareOrSquareRoot(arr)); // [2,9,3,49,4,1]
@@ -2017,7 +2038,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-    
+   
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2035,7 +2056,7 @@
 // function followingDay(){
 //     let day = prompt('Enter a day of the week to get the following day:').toLowerCase();
 
- 
+
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -2067,12 +2088,10 @@
 
 
 
-
 // let string = "A1,B2";
 
 // function removeFirstAndLast(str){
-    
-    
+      
 // }
 
 // console.log(removeFirstAndLast(string)); //null
@@ -2139,7 +2158,7 @@
 // let string = 'hello';
 
 // function getCount(str){
-    
+  
 // }
 
 
@@ -2246,7 +2265,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-//    return 
+  
 // }
 
 // console.log(getMiddleChar(string)); // "dd"
@@ -2267,11 +2286,10 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-   
+ 
 // }
 
 // console.log(isIsogram(string)); // true
-
 
 
 
@@ -2355,6 +2373,8 @@
 
 // let string = "How can mirrors be real if our eyes aren't real";
 
-
+// String.prototype.toJadenCase = function(){
+    
+// }
 
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
