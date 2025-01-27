@@ -1760,11 +1760,11 @@
 // let animals = ["sheep", "sheep", "sheep", "wolf", "sheep", "sheep", "sheep"];
 
 // function warnTheSheep(arr){
-   
+ 
     
 // }
 
-// console.log(warnTheSheep(animals));
+// console.log(warnTheSheep(animals)); // Oi! Sheep number 3! You are about to be eaten by a wolf!
 
 
 
@@ -1907,6 +1907,7 @@
 
 // function squareOrSquareRoot(array){
   
+
 // }
 
 // console.log(squareOrSquareRoot(arr)); // [2,9,3,49,4,1]
@@ -2088,13 +2089,13 @@
 
 
 
-// let string = "A1,B2";
+// let string = "A1,B2,C3";
 
 // function removeFirstAndLast(str){
-      
+   
 // }
 
-// console.log(removeFirstAndLast(string)); //null
+// console.log(removeFirstAndLast(string)); //B2
 
 
 
@@ -2188,11 +2189,10 @@
 // let string = "This website is so funny LOL!";
 
 // function disemvowel(str){
-  
+    
 // }
 
 // console.log(disemvowel(string)); //Ths wbst s s fnny LL!
-
 
 
 
@@ -2286,7 +2286,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
- 
+    
 // }
 
 // console.log(isIsogram(string)); // true
