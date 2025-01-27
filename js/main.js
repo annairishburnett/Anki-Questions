@@ -2409,20 +2409,10 @@
 
 
 
+// let string = "abcd";
 
+// function accum(s){
+   
+// }
 
-let string = "abcd";
-
-function accum(s){
-    let arr = s.toUpperCase().split('');
-    let newArr = [];
-
-    arr.forEach((letter, index) => {
-        newArr.push(letter + letter.toLowerCase().repeat(index))
-        
-    });
-
-    return newArr.join('-');
-}
-
-console.log(accum(string))// "A-Bb-Ccc-Dddd"
+// console.log(accum(string))// "A-Bb-Ccc-Dddd"
