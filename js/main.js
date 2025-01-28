@@ -103,7 +103,7 @@
 
 // let filterRange = 
 
-// let filtered = filterRange(arr, 1,4);
+// let filtered = filterRange(arr, 1, 4);
 
 // console.log(filtered); //[3, 1]
 // console.log(arr); //[5, 3, 8, 1]
@@ -1046,7 +1046,8 @@
 
 
 // function feast(beast, dish){
-    
+   
+
 // }
 
 // console.log(feast('great blue heron', 'garlic naan'));
@@ -1461,8 +1462,7 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-
-
+   
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
@@ -1843,7 +1843,7 @@
 // let string = 'Hello World';
 
 // function repeatChar(str){
-    
+   
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -1864,7 +1864,7 @@
 
 
 // function yesOrNo(){
- 
+  
 // }
 
 // yesOrNo();
@@ -2259,7 +2259,6 @@
 
 
 
-
 //I don't understand how passing floated values (2.5) into the slice method works - look into this problem more so I understand how the solution works
 
 // let string = 'mid';
@@ -2412,7 +2411,7 @@
 // let string = "abcd";
 
 // function accum(s){
-   
+  
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
