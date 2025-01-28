@@ -2415,3 +2415,27 @@
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let dnaSample = "ATTGC";
+
+// function dnaStrand(dna){
+   
+// }
+
+// console.log(dnaStrand(dnaSample)); //"TAACG"
