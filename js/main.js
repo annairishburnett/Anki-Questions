@@ -2456,3 +2456,28 @@
 
 
 // console.log(dnaStrand(dnaSample)); //"TAACG"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = "Skippy";//ippy
+
+// function maskify(cc){
+   
+// }
+
+// console.log(maskify(string));//##ippy
