@@ -856,9 +856,29 @@
 
 // let nums = [2,0,5,9,8];
 
-// const sumSecondHighAndLow = 
+// const sumSecondHighAndLow = arr => {
+   
+// }
 
 // console.log(sumSecondHighAndLow(nums)); // 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2120,7 +2140,7 @@
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
-   
+  
 // }
 
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
@@ -2242,7 +2262,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-  
+
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2282,10 +2302,10 @@
 
 
 
-// let string = 'Dermatoglyphics';
+// let string = 'Dermatoglyphicss';
 
 // function isIsogram(str) {
-    
+   
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2302,8 +2322,8 @@
 
 
 // function isEven(num){
-
-
+  
+    
 // }
   
   
@@ -2343,13 +2363,11 @@
 // November: 30
 // December: 31
 
-// function getDaysInMonth(month) {
+// function getDaysInMonth(){
   
 // }
 
-
-
-// console.log(getDaysInMonth(input));
+// console.log(getDaysInMonth());
 
 
 
@@ -2434,8 +2452,7 @@
 
 // let dnaSample = "ATTGC";
 
-// function dnaStrand(dna){
-   
-// }
+
+
 
 // console.log(dnaStrand(dnaSample)); //"TAACG"
