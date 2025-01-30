@@ -2477,3 +2477,28 @@
 // }
 
 // console.log(maskify(string));//##ippy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let string = "This is an example!";
+
+function reverseWords(str){
+    return str.split(' ').map(word => word.split('').reverse().join('')).join(' ');
+}
+
+console.log(reverseWords(string));//"sihT si na !elpmaxe"
+
