@@ -98,7 +98,6 @@
 
 
 
-
 // let arr = [5,3,8,1];
 
 // let filterRange = 
@@ -1569,7 +1568,6 @@
 
 
 
-
 // let meerkat = ['tail', 'body', 'head'];
 
 // function fixTheMeerkat(arr){
@@ -1842,7 +1840,7 @@
 // };
 
 // function listToArray(list){
-  
+
 // }
 
 // console.log(listToArray(list1));
@@ -1997,7 +1995,7 @@
 // };
   
 // function nth(num, list){
-  
+ 
 // }
   
 // console.log(nth(1, list2)); // 3
@@ -2018,7 +2016,8 @@
 
 
 // function deepEqual(a, b){
-   
+
+
 // }
  
  
@@ -2390,9 +2389,7 @@
 
 // let string = "How can mirrors be real if our eyes aren't real";
 
-// String.prototype.toJadenCase = function(){
-    
-// }
+
 
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
@@ -2454,7 +2451,6 @@
 
 
 
-
 // console.log(dnaStrand(dnaSample)); //"TAACG"
 
 
@@ -2477,7 +2473,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-   
+  
 // }
 
 // console.log(maskify(string));//##ippy
