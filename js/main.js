@@ -2494,11 +2494,11 @@
 
 
 
-let string = "This is an example!";
+// let string = "This is an example!";
 
-function reverseWords(str){
-    return str.split(' ').map(word => word.split('').reverse().join('')).join(' ');
-}
+// function reverseWords(str){
+    
+// }
 
-console.log(reverseWords(string));//"sihT si na !elpmaxe"
+// console.log(reverseWords(string));//"sihT si na !elpmaxe"
 
