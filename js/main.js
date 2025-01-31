@@ -2524,3 +2524,32 @@
 
 // console.log(x);
 // console.log(y);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let str1 = "Buckethead";
+// let str2 = "DeathCubeK";
+
+// function isAnagram(test, original){
+    
+// }
+
+// console.log(isAnagram(str1, str2));//true
