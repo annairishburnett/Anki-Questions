@@ -1798,6 +1798,7 @@
 
 // function arrayToList(arr){
   
+
 // }
 
 // console.log(arrayToList(array));
@@ -1924,7 +1925,7 @@
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-  
+    
 
 // }
 
@@ -1995,7 +1996,7 @@
 // };
   
 // function nth(num, list){
- 
+  
 // }
   
 // console.log(nth(1, list2)); // 3
@@ -2348,10 +2349,10 @@
 
 
 
-//Incorrect inputs must be taken into account
-//January: 31
-//February: 28
-//March: 31
+// Incorrect inputs must be taken into account
+// January: 31
+// February: 28
+// March: 31
 // April: 30
 // May: 31
 // June: 30
@@ -2445,8 +2446,6 @@
 
 
 
-
-
 // let dnaSample = "ATTGC";
 
 
@@ -2492,13 +2491,36 @@
 
 
 
-
-
 // let string = "This is an example!";
 
 // function reverseWords(str){
-    
+   
 // }
 
 // console.log(reverseWords(string));//"sihT si na !elpmaxe"
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Refactor this code so that y also equals 20
+
+// let x = {value: 10};
+// let y = x;
+
+// x.value = 20;
+
+// console.log(x);
+// console.log(y);
