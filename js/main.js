@@ -2561,12 +2561,10 @@
 
 
 
-let url = "www.codewars.com#about";
+// let url = "www.codewars.com#about";
 
-function removeAnchor(url){
-    const anchor = url.split('').findIndex(item => item === '#');
+// function removeAnchor(url){
+   
+// }
 
-    return url.slice(0, anchor);
-}
-
-console.log(removeAnchor(url)); // "www.codewars.com"
+// console.log(removeAnchor(url)); // "www.codewars.com"
