@@ -855,9 +855,7 @@
 
 // let nums = [2,0,5,9,8];
 
-// const sumSecondHighAndLow = arr => {
-   
-// }
+// const sumSecondHighAndLow = 
 
 // console.log(sumSecondHighAndLow(nums)); // 10
 
@@ -1333,7 +1331,7 @@
 // let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15];
 
 // function countPositivesSumNegatives(input){
-    
+   
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1465,7 +1463,8 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-   
+
+
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -1588,7 +1587,8 @@
 
 
 // function findMultiples(integer, limit){
-   
+  
+
 // }
 
 // console.log(findMultiples(2,6)); // [2, 4, 6]
@@ -1614,7 +1614,7 @@
 // function gooseFilter(birds) {
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
     
-    
+   
 
 // }
 
@@ -1653,7 +1653,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-   
+ 
 
 // }
 
@@ -1968,7 +1968,8 @@
 
 
 // function prepend(element, list) {
-  
+ 
+
 // }
   
 // let newList = prepend(1, list);
@@ -1996,7 +1997,7 @@
 // };
   
 // function nth(num, list){
-  
+
 // }
   
 // console.log(nth(1, list2)); // 3
@@ -2055,11 +2056,10 @@
 
 
 
-
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-   
+  
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2140,7 +2140,7 @@
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
-  
+ 
 // }
 
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
@@ -2181,7 +2181,6 @@
 // function getCount(str){
   
 // }
-
 
 // console.log(getCount(string));// 2
 
@@ -2262,11 +2261,10 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-
+  
 // }
 
 // console.log(highAndLow(string));// "5 1"
-
 
 
 
@@ -2284,10 +2282,10 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-  
+
 // }
 
-// console.log(getMiddleChar(string)); // "dd"
+// console.log(getMiddleChar(string)); // "i"
 
 
 
@@ -2301,11 +2299,10 @@
 
 
 
-
-// let string = 'Dermatoglyphicss';
+// let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-   
+ 
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2391,7 +2388,6 @@
 // let string = "How can mirrors be real if our eyes aren't real";
 
 
-
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
 
@@ -2404,8 +2400,8 @@
 
 
 
-
 // const solution = 
+
 
 // console.log(solution('Hello there love', 'love'));
 
@@ -2427,7 +2423,7 @@
 // let string = "abcd";
 
 // function accum(s){
-  
+ 
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
@@ -2466,13 +2462,10 @@
 
 
 
-
-
-
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-  
+   
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2549,7 +2542,7 @@
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-    
+
 // }
 
 // console.log(isAnagram(str1, str2));//true
