@@ -2546,3 +2546,27 @@
 // }
 
 // console.log(isAnagram(str1, str2));//true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let url = "www.codewars.com#about";
+
+function removeAnchor(url){
+    const anchor = url.split('').findIndex(item => item === '#');
+
+    return url.slice(0, anchor);
+}
+
+console.log(removeAnchor(url)); // "www.codewars.com"
