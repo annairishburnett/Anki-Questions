@@ -2562,9 +2562,12 @@
 
 
 // let url = "www.codewars.com#about";
+// let url = "www.codewars.com/katas/";
 
-// function removeAnchor(url){
-   
+
+// function removeURLAnchor(url){
+    
 // }
 
-// console.log(removeAnchor(url)); // "www.codewars.com"
+// console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
+
