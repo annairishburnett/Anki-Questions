@@ -1423,7 +1423,7 @@
 // let arr = ["Keep", "Remove", "Keep", "Remove", "Keep"];
 
 // function removeEveryOther(arr) {
-    
+   
 // }
 
 // console.log(removeEveryOther(arr)); // ["Keep", "Keep", "Keep"]
@@ -1480,7 +1480,7 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-   
+  
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
@@ -2059,7 +2059,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-  
+
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2257,11 +2257,10 @@
 
 
 
-
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-  
+   
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2282,7 +2281,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-
+    
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2302,7 +2301,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
- 
+   
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2445,7 +2444,6 @@
 // let dnaSample = "ATTGC";
 
 
-
 // console.log(dnaStrand(dnaSample)); //"TAACG"
 
 
@@ -2465,7 +2463,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-   
+  
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2566,7 +2564,7 @@
 
 
 // function removeURLAnchor(url){
-    
+   
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
