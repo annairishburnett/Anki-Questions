@@ -2569,3 +2569,23 @@
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = "CodEWaRs";
+
+// function capitals(word){
+   
+// }
+
+// console.log(capitals(string)); // [0,3,4,6]
