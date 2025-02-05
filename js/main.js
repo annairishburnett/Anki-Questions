@@ -2580,13 +2580,10 @@
 
 
 
-let string = "CodEWaRs";
+// let string = "CodEWaRs";
 
-function capitals(word) {
-    return word.split('').reduce((memo,v,i) => {
-        if(v === v.toUpperCase()) memo.push(i);
-        return memo;
-    }, []);
-}
+// function capitals(word) {
+  
+// }
 
-console.log(capitals(string)); // [0,3,4,6]
+// console.log(capitals(string)); // [0,3,4,6]
