@@ -1173,8 +1173,13 @@
 
 
 
+
+
+
+
+
 // function countChar(str, letter){
-    
+  
 // }
 
 // console.log(countChar('Hello', 'l')); // 2
@@ -1479,11 +1484,10 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-  
+   
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
-
 
 
 
@@ -2076,7 +2080,7 @@
 // function followingDay(){
 //     let day = prompt('Enter a day of the week to get the following day:').toLowerCase();
 
-
+ 
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -2111,7 +2115,7 @@
 // let string = "A1,B2,C3";
 
 // function removeFirstAndLast(str){
-   
+ 
 // }
 
 // console.log(removeFirstAndLast(string)); //B2
@@ -2138,8 +2142,10 @@
 
 // let array = [0,2,3,6,9];
 
+
+
 // function multipleOfIndex(arr){
- 
+    
 // }
 
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
@@ -2276,11 +2282,14 @@
 
 
 //I don't understand how passing floated values (2.5) into the slice method works - look into this problem more so I understand how the solution works
+//use slice method to select part of the string
+//what's the next part of the pseudo code?
+//add here
 
 // let string = 'mid';
 
 // function getMiddleChar(str){
-    
+   
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2380,11 +2389,11 @@
 
 
 
-
-
-
 // let string = "How can mirrors be real if our eyes aren't real";
 
+// String.prototype.toJadenCase = function(){
+    
+// }
 
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
@@ -2462,7 +2471,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-  
+ 
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2583,7 +2592,42 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
+   
   
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = "abcdef"; 
+
+// //create a function that takes in a string
+// function alternateCapitalization(str){
+//     let result = [];//create an empty array to push results into
+
+//     //split the string into an array so you can loop through each element with map to 
+//     str.split('').map((char, index) => index % 2 === 0 || index === 0 ? result.push(char.toUpperCase()) : result.push(char.toLowerCase()))
+
+//     return result;
+// }
+
+// console.log(alternateCapitalization(string)); //['AbCdEf', 'aBcDeF']
+
+// //Not there yet, returned: ['A', 'b', 'C', 'd', 'E', 'f']
+// //Have to join letters together before pushing them to the array, and then do the 2nd version, join those letters together, and push them into the new array as well
