@@ -2617,17 +2617,9 @@
 
 // let string = "abcdef"; 
 
-// //create a function that takes in a string
-// function alternateCapitalization(str){
-//     let result = [];//create an empty array to push results into
-
-//     //split the string into an array so you can loop through each element with map to 
-//     str.split('').map((char, index) => index % 2 === 0 || index === 0 ? result.push(char.toUpperCase()) : result.push(char.toLowerCase()))
-
-//     return result;
+// function capitalize(s){
+   
 // }
 
-// console.log(alternateCapitalization(string)); //['AbCdEf', 'aBcDeF']
+// console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
 
-// //Not there yet, returned: ['A', 'b', 'C', 'd', 'E', 'f']
-// //Have to join letters together before pushing them to the array, and then do the 2nd version, join those letters together, and push them into the new array as well
