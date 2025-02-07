@@ -2627,11 +2627,10 @@
 
 
 
-
 // let string = "abcdef"; 
 
 // function capitalize(s){
-   
+    
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
