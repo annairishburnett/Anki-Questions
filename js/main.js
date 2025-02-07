@@ -333,6 +333,29 @@
 
 
 
+
+
+
+
+
+// let string = 'Hello there love';
+
+// const removeSpaces = 
+
+// console.log(removeSpaces(string)); //Hellotherelove
+
+
+
+
+
+
+
+
+
+
+
+
+
 // let scores = ["3:1", "2:2", "0:1", "4:1", "2:0", "3:1", "2:2", "0:1", "4:1", "2:0"];
 
 // function teamScore(games){
@@ -641,11 +664,16 @@
 
 
 
+
+
+
 // const name = 'Bim Promsawad';
 
 // const initials = 
 
 // console.log(initials(name));
+
+
 
 
 
@@ -1175,11 +1203,8 @@
 
 
 
-
-
-
 // function countChar(str, letter){
-  
+    
 // }
 
 // console.log(countChar('Hello', 'l')); // 2
@@ -1971,7 +1996,7 @@
 
 
 // function prepend(element, list) {
- 
+
 
 // }
   
@@ -2000,7 +2025,7 @@
 // };
   
 // function nth(num, list){
-
+   
 // }
   
 // console.log(nth(1, list2)); // 3
@@ -2139,10 +2164,7 @@
 
 
 
-
 // let array = [0,2,3,6,9];
-
-
 
 // function multipleOfIndex(arr){
     
@@ -2260,8 +2282,6 @@
 
 
 
-
-
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
@@ -2277,14 +2297,7 @@
 
 
 
-
-
-
-
-//I don't understand how passing floated values (2.5) into the slice method works - look into this problem more so I understand how the solution works
-//use slice method to select part of the string
-//what's the next part of the pseudo code?
-//add here
+//I don't understand how passing floated values (2.5) into the slice method works - look at explanation in Anki card to learn how it works
 
 // let string = 'mid';
 
@@ -2622,4 +2635,20 @@
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
