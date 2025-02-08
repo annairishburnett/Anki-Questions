@@ -337,7 +337,6 @@
 
 
 
-
 // let string = 'Hello there love';
 
 // const removeSpaces = 
@@ -1062,6 +1061,7 @@
 
 // const well = 
 
+
 // console.log(well(x)); // I smell a series!
 
 
@@ -1509,7 +1509,7 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-   
+
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
@@ -1869,7 +1869,7 @@
 // };
 
 // function listToArray(list){
-
+   
 // }
 
 // console.log(listToArray(list1));
@@ -2087,7 +2087,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-
+    
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2397,16 +2397,8 @@
 
 
 
-
-
-
-
-
 // let string = "How can mirrors be real if our eyes aren't real";
 
-// String.prototype.toJadenCase = function(){
-    
-// }
 
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
@@ -2605,8 +2597,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-   
-  
+ 
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
