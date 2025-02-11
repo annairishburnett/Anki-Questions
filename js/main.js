@@ -177,6 +177,13 @@
 
 
 
+
+
+
+
+
+
+
 // let number = 35231;
 
 // const reverseNum = 
@@ -462,7 +469,7 @@
 
 
 
-// console.log(mutualFollowers);
+// console.log(mutualFollowers);//['Summer', 'Autumn']
 
 
 
@@ -754,10 +761,9 @@
 
 
 
-// let array = [10,20,30];
+// let array = [30,20,30];
 
 // function closingTime(arr){
-  
 
 // }
 
@@ -881,7 +887,9 @@
 
 // let nums = [2,0,5,9,8];
 
-// const sumSecondHighAndLow = 
+// const sumSecondHighAndLow = arr => {
+    
+// }
 
 // console.log(sumSecondHighAndLow(nums)); // 10
 
@@ -1953,7 +1961,6 @@
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-    
 
 // }
 
@@ -2087,7 +2094,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-    
+   
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2206,7 +2213,7 @@
 // let string = 'hello';
 
 // function getCount(str){
-  
+   
 // }
 
 // console.log(getCount(string));// 2
@@ -2235,10 +2242,12 @@
 // let string = "This website is so funny LOL!";
 
 // function disemvowel(str){
-    
+   
 // }
 
 // console.log(disemvowel(string)); //Ths wbst s s fnny LL!
+
+
 
 
 
@@ -2281,11 +2290,10 @@
 
 
 
-
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
+  
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2381,7 +2389,7 @@
 // December: 31
 
 // function getDaysInMonth(){
-  
+   
 // }
 
 // console.log(getDaysInMonth());
@@ -2457,6 +2465,7 @@
 // let dnaSample = "ATTGC";
 
 
+
 // console.log(dnaStrand(dnaSample)); //"TAACG"
 
 
@@ -2476,7 +2485,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
- 
+    
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2540,6 +2549,17 @@
 
 
 
+// //checkAge: Copy and edit code below
+// function checkAge(age){
+//     if(age > 18) {
+//         return true;
+//     }else{
+//         return confirm('Did parents allow you?');
+//     }
+// }
+
+
+
 
 
 
@@ -2553,7 +2573,7 @@
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-
+   
 // }
 
 // console.log(isAnagram(str1, str2));//true
@@ -2574,7 +2594,6 @@
 
 // let url = "www.codewars.com#about";
 // let url = "www.codewars.com/katas/";
-
 
 // function removeURLAnchor(url){
    
@@ -2597,7 +2616,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
- 
+   
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2621,7 +2640,7 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
-    
+   
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
