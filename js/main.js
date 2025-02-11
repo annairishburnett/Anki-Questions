@@ -329,6 +329,9 @@
 
 // let string = ["A", "B", "C"];
 
+// const reverseArray = arr => {
+  
+// }
 
 // console.log(reverseArray(string));
 
@@ -1210,12 +1213,11 @@
 
 
 
-
 // function countChar(str, letter){
     
 // }
 
-// console.log(countChar('Hello', 'l')); // 2
+// console.log(countChar('Hell', 'l')); // 2
 
 
 
@@ -1473,7 +1475,11 @@
 
 
 
+// let theComplexProgrammingLanguage = ["I", "study", "JavaScript"];
 
+// theComplexProgrammingLanguage.
+
+// console.log(theComplexProgrammingLanguage);
 
 
 
@@ -1829,11 +1835,9 @@
 
 
 
-
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-  
 
 // }
 
@@ -2210,13 +2214,13 @@
 
 
 
-// let string = 'hello';
+// let string = 'ttt';
 
-// function getCount(str){
+// function getCount(str) {
    
 // }
 
-// console.log(getCount(string));// 2
+// console.log(getCount(string));// 0
 
 
 
@@ -2440,10 +2444,11 @@
 
 
 
+
 // let string = "abcd";
 
 // function accum(s){
- 
+   
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
@@ -2463,6 +2468,8 @@
 
 
 // let dnaSample = "ATTGC";
+
+
 
 
 
@@ -2591,12 +2598,11 @@
 
 
 
-
 // let url = "www.codewars.com#about";
 // let url = "www.codewars.com/katas/";
 
 // function removeURLAnchor(url){
-   
+  
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
