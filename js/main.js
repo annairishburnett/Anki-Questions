@@ -2667,3 +2667,9 @@
 
 
 
+// function checkCoupon(coupon1, coupon2, currentDate, expirationDate){
+  
+// }
+
+// console.log(checkCoupon('123','123','September 5, 2014','October 1, 2014')); //true
+
