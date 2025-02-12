@@ -38,6 +38,15 @@
 
 
 
+// const vacationSpots = ['Bali', 'Costa Rica', 'South Africa', 'Norway'];
+
+
+
+
+
+
+
+
 
 
 
@@ -1586,7 +1595,6 @@
 
 
 
-
 // const shortLongShort = 
 
 // console.log(shortLongShort("22","1")); // 1221
@@ -1838,7 +1846,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-
+  
 // }
 
 // console.log(arrayToList(array));
@@ -2057,8 +2065,7 @@
 
 
 // function deepEqual(a, b){
-
-
+    
 // }
  
  
@@ -2171,10 +2178,6 @@
 
 
 
-
-
-
-
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
@@ -2213,11 +2216,10 @@
 
 
 
-
 // let string = 'ttt';
 
 // function getCount(str) {
-   
+  
 // }
 
 // console.log(getCount(string));// 0
@@ -2318,6 +2320,7 @@
 // }
 
 // console.log(getMiddleChar(string)); // "i"
+
 
 
 
@@ -2462,14 +2465,7 @@
 
 
 
-
-
-
-
-
 // let dnaSample = "ATTGC";
-
-
 
 
 
@@ -2575,12 +2571,11 @@
 
 
 
-
 // let str1 = "Buckethead";
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-   
+  
 // }
 
 // console.log(isAnagram(str1, str2));//true
@@ -2602,7 +2597,7 @@
 // let url = "www.codewars.com/katas/";
 
 // function removeURLAnchor(url){
-  
+//   return url.split('#')[0];
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
@@ -2616,13 +2611,10 @@
 
 
 
-
-
-
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-   
+
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
