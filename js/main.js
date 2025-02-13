@@ -1024,8 +1024,8 @@
 
 
 
+
 // function multiplicationTable(num){
-  
 
 // }
 
@@ -1484,11 +1484,21 @@
 
 
 
+
+
+
+
+
 // let theComplexProgrammingLanguage = ["I", "study", "JavaScript"];
 
 // theComplexProgrammingLanguage.
 
 // console.log(theComplexProgrammingLanguage);
+
+
+
+
+
 
 
 
@@ -1512,6 +1522,10 @@
 
 
 
+
+
+
+
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
@@ -1520,6 +1534,10 @@
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
+
+
+
+
 
 
 
@@ -2033,9 +2051,9 @@
 
 
 
+//getting closer to understanding this one, keep working at it! You're doing great!
 
-
-// let list2 = {
+// let list = {
 //     value: 2,
 //     rest: {
 //       value: 3,
@@ -2044,10 +2062,10 @@
 // };
   
 // function nth(num, list){
-   
+  
 // }
   
-// console.log(nth(1, list2)); // 3
+// console.log(nth(1, list)); // 3
 
 
 
@@ -2105,7 +2123,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-   
+ 
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2311,16 +2329,23 @@
 
 
 
+
+
 //I don't understand how passing floated values (2.5) into the slice method works - look at explanation in Anki card to learn how it works
+        //.slice uses Math.floor to convert decimals into integers
+
+
+//I don't quite understand this part:
+    //so, to get the starting argument we can do (str.length - 1)/2, then to get the end point we can do str.length/2 + 1
+
 
 // let string = 'mid';
 
 // function getMiddleChar(str){
-   
+//    return str.slice((str.length - 1)/2, str.length/2 + 1);
 // }
 
 // console.log(getMiddleChar(string)); // "i"
-
 
 
 
@@ -2465,8 +2490,13 @@
 
 
 
-// let dnaSample = "ATTGC";
 
+
+
+//Tthe second part of the .replace() method with the recursive function(c) is still a bit confusing - review how it works in the notes for the answer in the anki card
+
+
+// let dnaSample = "ATTGC";
 
 
 // console.log(dnaStrand(dnaSample)); //"TAACG"
