@@ -2695,3 +2695,30 @@
 
 // console.log(checkCoupon('123','123','September 5, 2014','October 1, 2014')); //true
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function greetMe(str){
+    const name = str.split('').map((letter, index) => index === 0 ? letter.toUpperCase() : letter.toLowerCase()).join('');
+    return `Hello ${name}!`;
+}
+
+console.log(greetMe('anna'));
