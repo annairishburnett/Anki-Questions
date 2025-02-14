@@ -2716,9 +2716,8 @@
 
 
 
-function greetMe(str){
-    const name = str.split('').map((letter, index) => index === 0 ? letter.toUpperCase() : letter.toLowerCase()).join('');
-    return `Hello ${name}!`;
-}
+// function greetMe(str){
+  
+// }
 
-console.log(greetMe('anna'));
+// console.log(greetMe('anna')); //'Hello Anna!'
