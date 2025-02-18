@@ -976,7 +976,7 @@
 // function musketeers(){
 //     let musketeers = ['Athos', 'Porthos', 'Aramis'];
 
-    
+  
 
 // }
 
@@ -1547,8 +1547,6 @@
 
 
 
-
-
 // function howMuchILoveYou(nbPetals) {
 
 // }
@@ -1864,7 +1862,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-  
+ 
 // }
 
 // console.log(arrayToList(array));
@@ -2033,8 +2031,7 @@
 
 
 // function prepend(element, list) {
-
-
+   
 // }
   
 // let newList = prepend(1, list);
@@ -2123,7 +2120,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
- 
+   
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2173,10 +2170,14 @@
 
 
 
+
+
+
 // let string = "A1,B2,C3";
 
 // function removeFirstAndLast(str){
  
+   
 // }
 
 // console.log(removeFirstAndLast(string)); //B2
@@ -2237,7 +2238,7 @@
 // let string = 'ttt';
 
 // function getCount(str) {
-  
+    
 // }
 
 // console.log(getCount(string));// 0
@@ -2317,7 +2318,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-  
+   
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2440,8 +2441,8 @@
 // let string = "How can mirrors be real if our eyes aren't real";
 
 
-// console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
+// console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
 
 
@@ -2499,9 +2500,9 @@
 // let dnaSample = "ATTGC";
 
 
+
+
 // console.log(dnaStrand(dnaSample)); //"TAACG"
-
-
 
 
 
@@ -2518,7 +2519,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-    
+   
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2540,7 +2541,7 @@
 // let string = "This is an example!";
 
 // function reverseWords(str){
-   
+  
 // }
 
 // console.log(reverseWords(string));//"sihT si na !elpmaxe"
@@ -2627,7 +2628,7 @@
 // let url = "www.codewars.com/katas/";
 
 // function removeURLAnchor(url){
-//   return url.split('#')[0];
+  
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
@@ -2644,7 +2645,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-
+   
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2668,7 +2669,7 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
-   
+  
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
@@ -2716,8 +2717,8 @@
 
 
 
-// function greetMe(str){
-  
-// }
+function greetMe(str){
+  return ``
+}
 
-// console.log(greetMe('anna')); //'Hello Anna!'
+console.log(greetMe('anna')); //'Hello Anna!'
