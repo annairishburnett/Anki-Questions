@@ -53,7 +53,7 @@
 // let sentence = ['Loose', 'enough', 'to', 'move', 'freely', 'but', 'tight', 'enough', 'to', 'never', 'let', 'you', 'go'];
 
 // function smash(arr){
-   
+  
 // }
 
 // console.log(smash(sentence));
@@ -449,6 +449,8 @@
 
 
 // const movies = ['Princess Bride', 'The Fellowship of the Ring', 'Hidden Figures', 'Sea Beast'];
+
+
 
 
 
@@ -1790,7 +1792,7 @@
 
 // let array = [1, 2, 1, 1, 3, 2];
 
-
+// const distinct = 
 
 // console.log(distinct(array)); // [1, 2, 3]
 
@@ -2176,7 +2178,7 @@
 // let string = "A1,B2,C3";
 
 // function removeFirstAndLast(str){
- 
+    
    
 // }
 
@@ -2343,7 +2345,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-//    return str.slice((str.length - 1)/2, str.length/2 + 1);
+    
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2380,14 +2382,14 @@
 
 
 // function isEven(num){
-  
+   
     
 // }
   
   
 // console.log(isEven(50));// → true
 // console.log(isEven(75));// → false
-// console.log(isEven(-1));// → ??
+// console.log(isEven(-1));// → false
 
 
 
@@ -2717,8 +2719,8 @@
 
 
 
-function greetMe(str){
-  return ``
-}
+// function greetMe(str){
+    
+// }
 
-console.log(greetMe('anna')); //'Hello Anna!'
+// console.log(greetMe('anna')); //'Hello Anna!'
