@@ -2731,3 +2731,28 @@
 // }
 
 // console.log(greetMe('anna')); //'Hello Anna!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let num = 35;
+
+// function digits(int){
+    
+// }
+
+// console.log(digits(num)); //2
