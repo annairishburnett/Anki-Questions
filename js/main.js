@@ -295,11 +295,19 @@
 //   {id: 'pete', name: "Pete Peterson", age: 31 },
 // ];
 
-// const groupByID
+// function groupById(array){
+   
+// }
 
 // let usersById = groupById(users);
 
-// console.log(usersById);
+// console.log(usersById); 
+
+// ann: {id: 'ann', name: 'Ann Smith', age: 24}
+// john: {id: 'john', name: 'John Smith', age: 20}
+// pete: {id: 'pete', name: 'Pete Peterson', age: 31}
+
+
 
 
 
@@ -480,6 +488,7 @@
 // const bobsFollowers = ['Summer', 'Autumn', 'Winter', 'Spring'];
 // const tinasFollowers = ['Summer', 'Autumn', 'Joy'];
 // let mutualFollowers = [];
+
 
 
 
@@ -1675,14 +1684,12 @@
 
 
 
-
-
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
     
-   
+ 
 
 // }
 
@@ -2345,7 +2352,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-    
+   
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2647,7 +2654,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-   
+ 
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
