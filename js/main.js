@@ -193,6 +193,10 @@
 
 
 
+
+
+
+
 // let number = 35231;
 
 // const reverseNum = 
@@ -1836,7 +1840,6 @@
 
 
 // function fizzBuzz(){
-   
 
 // }
 
@@ -2141,7 +2144,6 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-   
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2669,7 +2671,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-   
+  
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2824,3 +2826,25 @@
 
 // let result = powerCalc.calculate("2 ** 3");
 // alert(result);//8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
