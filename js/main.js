@@ -71,7 +71,9 @@
 
 // let arr = [5,3,8,1];
 
-// const filterRangeInPlace = 
+// const filterRangeInPlace = (arr, a, b) => {
+
+// }
 
 // filterRangeInPlace(arr, 1,4);
 
@@ -300,7 +302,7 @@
 // ];
 
 // function groupById(array){
- 
+
 // }
 
 // let usersById = groupById(users);
@@ -636,6 +638,7 @@
 
 
 
+
 // console.log(stars(array));
 
 
@@ -652,7 +655,9 @@
 // const rapperArray = ["Lil' Kim", "Jay-Z", "Notorious B.I.G.", "Tupac"];
 
 // for(let i = 0; i < rapperArray.length; i++){
-//     console.log(rapperArray[i]);
+    
+   
+    
   
 // }
 
@@ -716,6 +721,7 @@
 
 // const initials = 
 
+
 // console.log(initials(name));
 
 
@@ -733,7 +739,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-  
+ 
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -926,9 +932,7 @@
 
 // let nums = [2,0,5,9,8];
 
-// const sumSecondHighAndLow = arr => {
-    
-// }
+// const sumSecondHighAndLow = 
 
 // console.log(sumSecondHighAndLow(nums)); // 10
 
@@ -963,7 +967,7 @@
 
 // let sheep = [true, false, true, false, false, true, true, true]; //5
 
-// const countSheep =
+// const countSheep = 
 
 // console.log(countSheep(sheep)); // 5
 
@@ -1172,8 +1176,6 @@
 
 
 
-
-
 //COPY AND PASTE, THEN FINISH THE FUNCTION
 // function range(start, end){
 //     let array = [];
@@ -1365,7 +1367,7 @@
 // let nums = [1,2,3,4,5,6];
 
 // function findAverage(array) {
- 
+    
 // }
 
 // console.log(findAverage(nums)) // 3.5
@@ -1556,7 +1558,7 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-
+   
 
 // }
 
@@ -1593,7 +1595,7 @@
 
 // let nums = [1,2,3,4,5,6,7,8,9,10];
 
-// const onlyEvens = 
+// const onlyEvens =
 
 // console.log(onlyEvens(nums)); // [2, 4, 6, 8, 10]
 
@@ -1812,7 +1814,6 @@
 
 
 
-
 // let array = [1, 2, 1, 1, 3, 2];
 
 // const distinct = 
@@ -1868,7 +1869,7 @@
 // let animals = ["sheep", "sheep", "sheep", "wolf", "sheep", "sheep", "sheep"];
 
 // function warnTheSheep(arr){
- 
+   
     
 // }
 
@@ -1886,7 +1887,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
- 
+   
 // }
 
 // console.log(arrayToList(array));
@@ -1929,7 +1930,7 @@
 // };
 
 // function listToArray(list){
-   
+    
 // }
 
 // console.log(listToArray(list1));
@@ -1950,7 +1951,7 @@
 // let string = 'Hello World';
 
 // function repeatChar(str){
-   
+
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -2013,11 +2014,10 @@
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-
+    
 // }
 
 // console.log(squareOrSquareRoot(arr)); // [2,9,3,49,4,1]
-
 
 
 
@@ -2083,7 +2083,7 @@
 // };
   
 // function nth(num, list){
-  
+
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2196,14 +2196,14 @@
 
 
 
-// let string = "A1,B2,C3";
+// let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-    
+   
    
 // }
 
-// console.log(removeFirstAndLast(string)); //B2
+// console.log(removeFirstAndLast(string)); //B2 C3
 
 
 
@@ -2309,6 +2309,8 @@
 
 
 
+
+
 //Copy and paste section below, don't edit
 // fetch("https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita")
 //     .then(res => res.json()) // parse response as JSON
@@ -2341,7 +2343,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
+  
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2360,7 +2362,7 @@
 
 
 //I don't quite understand this part:
-    //so, to get the starting argument we can do (str.length - 1)/2, then to get the end point we can do str.length/2 + 1
+   
 
 
 // let string = 'mid';
@@ -2445,7 +2447,7 @@
 // December: 31
 
 // function getDaysInMonth(){
-   
+  
 // }
 
 // console.log(getDaysInMonth());
@@ -2517,11 +2519,10 @@
 
 
 
-//Tthe second part of the .replace() method with the recursive function(c) is still a bit confusing - review how it works in the notes for the answer in the anki card
+//The second part of the .replace() method with the recursive function(c) is still a bit confusing - review how it works in the notes for the answer in the anki card
 
 
 // let dnaSample = "ATTGC";
-
 
 
 
@@ -2629,7 +2630,7 @@
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-  
+    
 // }
 
 // console.log(isAnagram(str1, str2));//true
