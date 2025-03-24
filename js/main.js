@@ -72,7 +72,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-
+   
 // }
 
 // filterRangeInPlace(arr, 1,4);
@@ -93,7 +93,7 @@
 
 // let boolean = true;
 
-// const convertBooleanToString = 
+// const convertBooleanToString =
 
 // console.log(convertBooleanToString(boolean)); // true
 
@@ -116,6 +116,9 @@
 
 // console.log(filtered); //[3, 1]
 // console.log(arr); //[5, 3, 8, 1]
+
+
+
 
 
 
@@ -223,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-   
+  
 // }
 
 // console.log(shuffle(arr));
@@ -540,7 +543,7 @@
 
 // const convertDNA = 
 
-// console.log(convertDNA(DNA));
+// console.log(convertDNA(DNA)); // "GCAU"
 
 
 
@@ -628,13 +631,11 @@
 
 
 
-// let array = ['Hello', 'there', 'my', 'friend'];
+// let array = ['there', 'Hello', 'my', 'friend'];
 
+// const stars = 
 
-
-
-// console.log(stars(array));
-
+// console.log(stars(array)); //H***e***l***l***o
 
 
 
@@ -961,7 +962,7 @@
 
 // let sheep = [true, false, true, false, false, true, true, true]; //5
 
-// const countSheep = 
+// const countSheep =
 
 // console.log(countSheep(sheep)); // 5
 
@@ -972,8 +973,12 @@
 
 
 
+
+
+
+
 // function sheepMurmur(num){
-   
+  
 // }
 
 // console.log(sheepMurmur(3));
@@ -1286,7 +1291,7 @@
 
 // let array = [1,2,3];
 
-
+// const maps = 
 
 // console.log(maps(array)); // [2, 4, 6]
 
@@ -1424,14 +1429,10 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
-    
+   
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
-
-
-
-
 
 
 
@@ -1611,7 +1612,9 @@
 
 // let nums = [1,2,3,4,5,6,7,8,9,10];
 
-// const onlyEvens = 
+// const onlyEvens = arr => {
+   
+// }
 
 // console.log(onlyEvens(nums)); // [2, 4, 6, 8, 10]
 
@@ -1698,8 +1701,7 @@
 
 
 // function findMultiples(integer, limit){
-  
-
+   
 // }
 
 // console.log(findMultiples(2,6)); // [2, 4, 6]
@@ -1724,7 +1726,6 @@
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
     
  
-
 // }
 
 // console.log(gooseFilter(birds)); // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
@@ -1902,7 +1903,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+
 // }
 
 // console.log(arrayToList(array));
@@ -1945,7 +1946,7 @@
 // };
 
 // function listToArray(list){
-    
+   
 // }
 
 // console.log(listToArray(list1));
@@ -1966,7 +1967,7 @@
 // let string = 'Hello World';
 
 // function repeatChar(str){
-
+   
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -2175,9 +2176,9 @@
 
 
 // function followingDay(){
-//     let day = prompt('Enter a day of the week to get the following day:').toLowerCase();
+//     let day = prompt('Enter a day to get the following day:').toLowerCase();
 
- 
+   
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -2277,7 +2278,7 @@
 // let string = 'ttt';
 
 // function getCount(str) {
-    
+  
 // }
 
 // console.log(getCount(string));// 0
@@ -2327,6 +2328,7 @@
 
 
 
+
 //Copy and paste section below, don't edit
 // fetch("https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita")
 //     .then(res => res.json()) // parse response as JSON
@@ -2359,7 +2361,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-  
+   
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2377,7 +2379,6 @@
         //.slice uses Math.floor to convert decimals into integers
 
 
-//I don't quite understand this part:
    
 
 
@@ -2404,7 +2405,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-   
+
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2648,7 +2649,7 @@
     
 // }
 
-// console.log(isAnagram(str1, str2));//true
+// console.log(isAnagram(str1, str2)); // true
 
 
 
@@ -2711,7 +2712,7 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
-   
+  
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
@@ -2760,7 +2761,7 @@
 
 
 // function greetMe(str){
-    
+   
 // }
 
 // console.log(greetMe('anna')); //'Hello Anna!'
@@ -2860,7 +2861,45 @@
 
 
 
+// function pow(x,n){
+  
+// }
+
+// console.log(pow(3,2)); // 9
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+// const repeatStr = 
+
+// console.log(repeatStr(2, 'hello')); // hellohello
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function calculateVAT(){
+ 
+// }
+
+// console.log(calculateVAT()); //enter 20 => $24.12
