@@ -126,8 +126,6 @@
 
 
 
-
-
 // let john = { name: "John", surname: "Smith", id: 1};
 // let pete = { name: "Pete", surname: "Hunt", id: 2};
 // let mary = { name: "Mary", surname: "Key", id: 3};
@@ -225,7 +223,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
- 
+   
 // }
 
 // console.log(shuffle(arr));
@@ -347,7 +345,6 @@
 
 
 
-
 // let string = "The greatest victory is that which requires no battle";
 
 // const reverseWords = 
@@ -404,7 +401,7 @@
 // let scores = ["3:1", "2:2", "0:1", "4:1", "2:0", "3:1", "2:2", "0:1", "4:1", "2:0"];
 
 // function teamScore(games){
-  
+    
 // }
 
 // console.log(teamScore(scores)); // 20
@@ -617,9 +614,6 @@
 // const playingBanjo = 
 
 // console.log(playingBanjo(name));
-
-
-
 
 
 
@@ -1405,10 +1399,32 @@
 
 
 
-// let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15];
+
+// //COPY AND PASTE THIS
+// function Circle(radius){
+//     this.radius = radius;
+//     this.draw = function(){
+//         console.log(draw);
+//     }
+// }
+
+// const circle = new Circle(10);
+
+// for(let key in circle){
+//     console.log(key, circle[key]);
+// }
+
+
+
+
+
+
+
+
+// let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
-   
+    
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1577,7 +1593,7 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-
+   
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
@@ -1595,7 +1611,7 @@
 
 // let nums = [1,2,3,4,5,6,7,8,9,10];
 
-// const onlyEvens =
+// const onlyEvens = 
 
 // console.log(onlyEvens(nums)); // [2, 4, 6, 8, 10]
 
@@ -1746,8 +1762,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
- 
-
+   
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1795,7 +1810,7 @@
 
 
 // function nMultiplesOfX(x, n){
-   
+  
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -2144,6 +2159,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
+    
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2406,7 +2422,6 @@
 
 // function isEven(num){
    
-    
 // }
   
   
@@ -2672,7 +2687,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-  
+   
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2696,7 +2711,7 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
-  
+   
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
@@ -2718,7 +2733,7 @@
 
 
 // function checkCoupon(coupon1, coupon2, currentDate, expirationDate){
-  
+    
 // }
 
 // console.log(checkCoupon('123','123','September 5, 2014','October 1, 2014')); //true
