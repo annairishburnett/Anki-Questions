@@ -2904,3 +2904,26 @@
 // }
 
 // console.log(calculateVAT()); //enter 20 => $24.12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
+
+// function removeDuplicateWords(s){
+   
+// }
+
+// console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
