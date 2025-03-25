@@ -303,7 +303,7 @@
 // ];
 
 // function groupById(array){
-
+   
 // }
 
 // let usersById = groupById(users);
@@ -1108,6 +1108,7 @@
 
 
 // const x = ['good', 'bad', 'good', 'good', 'bad', 'good'];
+
 
 // const well = 
 
@@ -2099,7 +2100,7 @@
 // };
   
 // function nth(num, list){
-
+   
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2278,7 +2279,7 @@
 // let string = 'ttt';
 
 // function getCount(str) {
-  
+ 
 // }
 
 // console.log(getCount(string));// 0
@@ -2405,7 +2406,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-
+    
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2688,7 +2689,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-   
+  
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
