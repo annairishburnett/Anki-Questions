@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-  
+ 
 // }
 
 // console.log(shuffle(arr));
@@ -1430,7 +1430,7 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
-   
+  
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1764,7 +1764,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-   
+  
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1904,7 +1904,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-
+   
 // }
 
 // console.log(arrayToList(array));
@@ -2791,6 +2791,16 @@
 // }
 
 // console.log(digits(num)); //2
+
+
+
+
+
+
+
+
+
+
 
 
 
