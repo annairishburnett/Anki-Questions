@@ -2939,3 +2939,32 @@
 
 // let result = powerCalc.calculate("2 ** 3");
 // console.log(result);//8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const string = "nnn_n__n_n___nnnnn___n__nnn__";
+
+// function bump(x){
+    
+// }
+
+// console.log(bump(string)); // Woohoo!
