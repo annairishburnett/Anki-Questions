@@ -2375,15 +2375,13 @@
 
 
 
-let string = "1 2 3 4 5";
+// let string = "1 2 3 4 5";
 
-function highAndLow(numbers){
-   const arr = numbers.split(' ').map(Number);
+// function highAndLow(numbers){
+   
+// }
 
-   return `${Math.max(...arr)} ${Math.min(...arr)}`;
-}
-
-console.log(highAndLow(string));// "5 1"
+// console.log(highAndLow(string));// "5 1"
 
 
 
@@ -2980,4 +2978,16 @@ console.log(highAndLow(string));// "5 1"
 
 
 
+
+
+
+
+
+// const string = "He11o th3r3 y0u!";
+
+// function filterString(value){
+    
+// }
+
+// console.log(filterString(string)); // 11330
 
