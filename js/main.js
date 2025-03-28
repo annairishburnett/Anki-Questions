@@ -310,7 +310,7 @@
 // ];
 
 // function groupById(array){
-    
+
 // }
 
 // let usersById = groupById(users);
@@ -2089,7 +2089,7 @@
 
 
 // function prepend(element, list) {
-  
+ 
 // }
   
 // let newList = prepend(1, list);
@@ -2137,7 +2137,7 @@
 
 
 // function deepEqual(a, b){
-  
+   
 // }
  
  
@@ -2295,7 +2295,7 @@
 // let string = 'ttt';
 
 // function getCount(str) {
- 
+    
 // }
 
 // console.log(getCount(string));// 0
@@ -2375,13 +2375,15 @@
 
 
 
-// let string = "1 2 3 4 5";
+let string = "1 2 3 4 5";
 
-// function highAndLow(numbers){
-   
-// }
+function highAndLow(numbers){
+   const arr = numbers.split(' ').map(Number);
 
-// console.log(highAndLow(string));// "5 1"
+   return `${Math.max(...arr)} ${Math.min(...arr)}`;
+}
+
+console.log(highAndLow(string));// "5 1"
 
 
 
@@ -2925,7 +2927,7 @@
 
 
 // function Calculator(){
-   
+  
 // }
 
 // let calc = new Calculator;
@@ -2968,3 +2970,14 @@
 // }
 
 // console.log(bump(string)); // Woohoo!
+
+
+
+
+
+
+
+
+
+
+
