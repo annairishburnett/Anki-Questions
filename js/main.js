@@ -110,7 +110,7 @@
 
 // let arr = [5,3,8,1];
 
-// let filterRange = 
+// let filterRange =
 
 // let filtered = filterRange(arr, 1, 4);
 
@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
- 
+       
 // }
 
 // console.log(shuffle(arr));
@@ -2172,8 +2172,6 @@
 
 
 
-
-
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
@@ -2233,7 +2231,6 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-   
    
 // }
 
@@ -2925,7 +2922,7 @@
 
 
 // function Calculator(){
-  
+ 
 // }
 
 // let calc = new Calculator;
