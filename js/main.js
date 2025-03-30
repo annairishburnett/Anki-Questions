@@ -743,7 +743,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
- 
+        
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -2705,7 +2705,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-  
+ 
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2990,4 +2990,24 @@
 // }
 
 // console.log(filterString(string)); // 11330
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
