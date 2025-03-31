@@ -971,7 +971,7 @@
 
 // let sheep = [true, false, true, false, false, true, true, true]; //5
 
-// const countSheep =
+// const countSheep = 
 
 // console.log(countSheep(sheep)); // 5
 
@@ -987,7 +987,7 @@
 
 
 // function sheepMurmur(num){
-  
+ 
 // }
 
 // console.log(sheepMurmur(3));
@@ -1439,7 +1439,7 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
-  
+ 
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1963,7 +1963,7 @@
 // };
 
 // function listToArray(list){
-   
+
 // }
 
 // console.log(listToArray(list1));
@@ -2117,7 +2117,7 @@
 // };
   
 // function nth(num, list){
-  
+ 
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2563,7 +2563,11 @@
 
 
 
+// function yesOrNo(){
+      
+// }
 
+// yesOrNo();
 
 
 
