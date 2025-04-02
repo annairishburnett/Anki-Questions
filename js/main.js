@@ -3013,3 +3013,10 @@
 
 
 
+// let string = 'z';
+
+// function alphabetWar(fight){
+ 
+// };
+
+// console.log(alphabetWar(string));// Right side wins!
