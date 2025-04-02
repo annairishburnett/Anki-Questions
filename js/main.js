@@ -310,7 +310,7 @@
 // ];
 
 // function groupById(array){
-
+      
 // }
 
 // let usersById = groupById(users);
@@ -1773,7 +1773,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-  
+
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1913,7 +1913,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+  
 // }
 
 // console.log(arrayToList(array));
@@ -1963,7 +1963,7 @@
 // };
 
 // function listToArray(list){
-
+      
 // }
 
 // console.log(listToArray(list1));
@@ -2089,7 +2089,7 @@
 
 
 // function prepend(element, list) {
- 
+      
 // }
   
 // let newList = prepend(1, list);
@@ -2137,7 +2137,7 @@
 
 
 // function deepEqual(a, b){
-   
+  
 // }
  
  
@@ -2254,7 +2254,7 @@
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
-    
+   
 // }
 
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
@@ -2399,7 +2399,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-   
+  
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2578,6 +2578,7 @@
 
 // function maskify(cc){
    
+
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2893,7 +2894,7 @@
 // let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
 
 // function removeDuplicateWords(s){
-   
+  
 // }
 
 // console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
