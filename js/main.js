@@ -1065,7 +1065,7 @@
 
 
 // function multiplicationTable(num){
-
+        
 // }
 
 // console.log(multiplicationTable(5));
@@ -1356,7 +1356,7 @@
 
 // let nums = [1, -2, 3, -4, 5];
 
-// const invert =
+// const invert = 
 
 // console.log(invert(nums)); // [-1, 2, -3, 4, -5]
 
@@ -1773,7 +1773,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-
+       
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -2966,7 +2966,7 @@
 // const string = "nnn_n__n_n___nnnnn___n__nnn__";
 
 // function bump(x){
-    
+   
 // }
 
 // console.log(bump(string)); // Woohoo!
