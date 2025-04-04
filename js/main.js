@@ -2927,7 +2927,7 @@
 
 
 // function Calculator(){
- 
+        
 // }
 
 // let calc = new Calculator;
@@ -2985,10 +2985,11 @@
 
 
 
+
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-    
+   
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3017,6 +3018,20 @@
 
 // function alphabetWar(fight){
  
+
 // };
 
 // console.log(alphabetWar(string));// Right side wins!
+
+
+
+
+
+
+
+
+
+
+
+
+
