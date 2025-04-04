@@ -72,7 +72,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-  
+ 
 // }
 
 // filterRangeInPlace(arr, 1,4);
@@ -2249,8 +2249,6 @@
 
 
 
-
-
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
@@ -3017,7 +3015,7 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
- 
+        
 
 // };
 
