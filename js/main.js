@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-       
+      
 // }
 
 // console.log(shuffle(arr));
@@ -606,6 +606,10 @@
 
 
 // console.log(convert(string));
+
+
+
+
 
 
 
@@ -1547,7 +1551,7 @@
 
 // let theComplexProgrammingLanguage = ["I", "study", "JavaScript"];
 
-// theComplexProgrammingLanguage.
+// theComplexProgrammingLanguage
 
 // console.log(theComplexProgrammingLanguage);
 
@@ -1711,7 +1715,7 @@
 
 
 // function findMultiples(integer, limit){
-   
+  
 // }
 
 // console.log(findMultiples(2,6)); // [2, 4, 6]
@@ -1914,6 +1918,7 @@
 
 // function arrayToList(arr){
   
+
 // }
 
 // console.log(arrayToList(array));
@@ -1963,7 +1968,7 @@
 // };
 
 // function listToArray(list){
-      
+     
 // }
 
 // console.log(listToArray(list1));
@@ -2117,7 +2122,7 @@
 // };
   
 // function nth(num, list){
- 
+        
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2231,7 +2236,7 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-   
+  
 // }
 
 // console.log(removeFirstAndLast(string)); //B2 C3
@@ -2705,7 +2710,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
- 
+       
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2778,7 +2783,7 @@
 
 
 // function greetMe(str){
-   
+  
 // }
 
 // console.log(greetMe('anna')); //'Hello Anna!'
@@ -3015,7 +3020,8 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-        
+       
+
 
 // };
 
