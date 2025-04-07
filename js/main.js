@@ -3039,3 +3039,16 @@
 
 
 
+
+
+
+
+
+
+// let string = "CodeWars";
+
+// function sortMyString(s){
+        
+// }
+
+// console.log(sortMyString(string)); //"CdWr oeas"
