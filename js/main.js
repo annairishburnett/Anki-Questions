@@ -3065,3 +3065,15 @@
 
 
 
+
+
+
+
+
+// let string = "312";
+
+// function explode(s){
+    
+// }
+
+// console.log(explode(string)); // "333122"
