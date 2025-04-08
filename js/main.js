@@ -72,7 +72,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
- 
+       
 // }
 
 // filterRangeInPlace(arr, 1,4);
@@ -110,7 +110,7 @@
 
 // let arr = [5,3,8,1];
 
-// let filterRange =
+// let filterRange = 
 
 // let filtered = filterRange(arr, 1, 4);
 
@@ -747,7 +747,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-        
+       
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -1289,7 +1289,7 @@
 // let string = 'Calm joy is sustainable!';
 
 // function removeExclamationMarks(str){
-    
+  
 // }
 
 // console.log(removeExclamationMarks(string));
@@ -3052,3 +3052,16 @@
 // }
 
 // console.log(sortMyString(string)); //"CdWr oeas"
+
+
+
+
+
+
+
+
+
+
+
+
+
