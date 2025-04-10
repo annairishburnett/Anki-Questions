@@ -3108,13 +3108,13 @@
 
 
 
-let string = "aabacbaa";
+// let string = "aabacbaa";
 
-function switcheroo(x){
-        return x.split('').map(char => char === "c" ? "c" : (char === "a" ? "b" : "a")).join('');
-}
+// function switcheroo(x){
+     
+// }
 
-console.log(switcheroo(string)); //"bbabcabb"
+// console.log(switcheroo(string)); //"bbabcabb"
 
 
 
