@@ -3084,3 +3084,37 @@
 // }
 
 // console.log(explode(string)); // "333122"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let string = "aabacbaa";
+
+function switcheroo(x){
+        return x.split('').map(char => char === "c" ? "c" : (char === "a" ? "b" : "a")).join('');
+}
+
+console.log(switcheroo(string)); //"bbabcabb"
+
+
+
