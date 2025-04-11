@@ -3123,3 +3123,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let array = ["1.2", "2.3", "3.4"];
+
+// function toNumberArray(stringarray){
+        
+// }
+
+// console.log(toNumberArray(array)); // [1.2, 2.3, 3.4]
