@@ -1917,7 +1917,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-  
+
 
 // }
 
@@ -2142,7 +2142,7 @@
 
 
 // function deepEqual(a, b){
-        
+
 // }
  
  
@@ -2177,10 +2177,16 @@
 
 
 
+
+
+
+
+
+
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-    
+   
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2259,7 +2265,6 @@
 // function multipleOfIndex(arr){
    
 // }
-
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
 
 
@@ -2402,7 +2407,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-  
+ 
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2976,7 +2981,7 @@
 // const string = "nnn_n__n_n___nnnnn___n__nnn__";
 
 // function bump(x){
-   
+  
 // }
 
 // console.log(bump(string)); // Woohoo!
@@ -3111,7 +3116,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-     
+  
 // }
 
 // console.log(switcheroo(string)); //"bbabcabb"
