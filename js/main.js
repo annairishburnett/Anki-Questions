@@ -1440,13 +1440,20 @@
 
 
 
-// let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
+let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
-// function countPositivesSumNegatives(input){
- 
-// }
+function countPositivesSumNegatives(input){
+ const posCount = input.filter(num => num > 0).length;
+ const negSum = input.reduce((acc, c) => acc + (c < 0 ? c : 0), 0);
 
-// console.log(countPositivesSumNegatives(array)); // [10, -65]
+ if(input === null || input.length < 1){
+        return [];
+ }else{
+        return [posCount, negSum];
+ }
+}
+
+console.log(countPositivesSumNegatives(array)); // [10, -65]
 
 
 
@@ -1590,6 +1597,7 @@
 
 // function firstNonConsecutive(arr){
    
+     
 
 // }
 
@@ -2383,7 +2391,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
+ 
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2427,7 +2435,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-    
+  
 // }
 
 // console.log(isIsogram(string)); // true
@@ -3116,7 +3124,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-  
+
 // }
 
 // console.log(switcheroo(string)); //"bbabcabb"
