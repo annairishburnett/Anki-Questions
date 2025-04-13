@@ -72,7 +72,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-       
+      
 // }
 
 // filterRangeInPlace(arr, 1,4);
@@ -646,7 +646,7 @@
 
 // let array = ['there', 'Hello', 'my', 'friend'];
 
-// const stars = 
+
 
 // console.log(stars(array)); //H***e***l***l***o
 
@@ -1778,7 +1778,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-       
+      
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -2384,7 +2384,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
- 
+
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -2746,7 +2746,8 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
-  
+ 
+
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
@@ -3117,6 +3118,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
+       
 
 // }
 
