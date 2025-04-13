@@ -3146,3 +3146,36 @@
 // }
 
 // console.log(toNumberArray(array)); // [1.2, 2.3, 3.4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let list = [
+//         { firstName: 'Noah', lastName: 'M.', country: 'Switzerland', continent: 'Europe', age: 19, language: 'JavaScript' },
+//         { firstName: 'Maia', lastName: 'S.', country: 'Tahiti', continent: 'Oceania', age: 28, language: 'JavaScript' },
+//         { firstName: 'Shufen', lastName: 'L.', country: 'Taiwan', continent: 'Asia', age: 35, language: 'HTML' },
+//         { firstName: 'Sumayah', lastName: 'M.', country: 'Tajikistan', continent: 'Asia', age: 30, language: 'CSS' },
+//         { firstName: 'Evi', lastName: 'V.', country: 'Belgium', continent: 'Europe', age: 35, language: 'JavaScript' }
+// ];
+
+
+// function countDevelopers(devs){
+   
+// }
+
+// console.log(countDevelopers(list)); //2
+
