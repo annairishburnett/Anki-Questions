@@ -310,7 +310,7 @@
 // ];
 
 // function groupById(array){
-      
+     
 // }
 
 // let usersById = groupById(users);
@@ -441,7 +441,6 @@
 
 
 // let string = '5EN10R C1T1ZEN5 1 L0VE';
-
 
 
 // console.log(correct(string));
@@ -2943,7 +2942,7 @@
 
 
 // function Calculator(){
-    
+  
 
 // }
 
@@ -2959,7 +2958,7 @@
 // let result = powerCalc.calculate("2 ** 3");
 // console.log(result);//8
 
-
+// console.log(calc.calculate("4 / 2"));//NaN
 
 
 
@@ -3087,7 +3086,7 @@
 // let string = "312";
 
 // function explode(s){
-   
+  
 // }
 
 // console.log(explode(string)); // "333122"
@@ -3165,7 +3164,7 @@
 
 
 // let list = [
-//         { firstName: 'Noah', lastName: 'M.', country: 'Switzerland', continent: 'Europe', age: 19, language: 'JavaScript' },
+//         { firstName: 'Lea', lastName: 'S.', country: 'Germany', continent: 'Europe', age: 33, language: 'JavaScript' },
 //         { firstName: 'Maia', lastName: 'S.', country: 'Tahiti', continent: 'Oceania', age: 28, language: 'JavaScript' },
 //         { firstName: 'Shufen', lastName: 'L.', country: 'Taiwan', continent: 'Asia', age: 35, language: 'HTML' },
 //         { firstName: 'Sumayah', lastName: 'M.', country: 'Tajikistan', continent: 'Asia', age: 30, language: 'CSS' },
@@ -3174,7 +3173,7 @@
 
 
 // function countDevelopers(devs){
-   
+
 // }
 
 // console.log(countDevelopers(list)); //2
