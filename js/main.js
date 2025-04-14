@@ -3178,3 +3178,31 @@
 
 // console.log(countDevelopers(list)); //2
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let array = ["Evi", "Lea", "Anna", "Laura"];
+
+// function likes(names) {
+    
+// }
+
+// console.log(likes(array));// "Evi, Lea and 2 others like this"
