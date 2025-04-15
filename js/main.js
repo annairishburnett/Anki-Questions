@@ -2300,7 +2300,7 @@
 // let string = 'ttt';
 
 // function getCount(str) {
-    
+   
 // }
 
 // console.log(getCount(string));// 0
@@ -2721,7 +2721,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-       
+      
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -3033,7 +3033,6 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-       
 
 
 // };
@@ -3061,7 +3060,7 @@
 // let string = "CodeWars";
 
 // function sortMyString(s){
-      
+    
 // }
 
 // console.log(sortMyString(string)); //"CdWr oeas"
@@ -3202,7 +3201,7 @@
 // let array = ["Evi", "Lea", "Anna", "Laura"];
 
 // function likes(names) {
-    
+  
 // }
 
 // console.log(likes(array));// "Evi, Lea and 2 others like this"
