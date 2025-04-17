@@ -3247,3 +3247,29 @@
 
 // console.log(createPhoneNumber(number));// "(123) 456-7890"
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let string = "Hey fellow warriors";
+
+// function spinWords(str){
+    
+// }
+
+// console.log(spinWords(string));//"Hey wollef sroirraw"
+
