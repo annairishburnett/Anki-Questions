@@ -2122,7 +2122,7 @@
 // };
   
 // function nth(num, list){
-        
+       
 // }
   
 // console.log(nth(1, list)); // 3
@@ -3126,11 +3126,10 @@
 
 
 
-
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-       
+    
 
 // }
 
@@ -3186,7 +3185,7 @@
 
 
 // function countDevelopers(devs){
-
+        
 // }
 
 // console.log(countDevelopers(list)); //2
@@ -3243,7 +3242,7 @@
 // let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
 // function createPhoneNumber(nums){
-    
+   
 // }
 
 // console.log(createPhoneNumber(number));// "(123) 456-7890"
