@@ -1968,7 +1968,7 @@
 // };
 
 // function listToArray(list){
-     
+    
 // }
 
 // console.log(listToArray(list1));
@@ -2052,7 +2052,7 @@
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-    
+   
 // }
 
 // console.log(squareOrSquareRoot(arr)); // [2,9,3,49,4,1]
@@ -2094,7 +2094,7 @@
 
 
 // function prepend(element, list) {
-      
+     
 // }
   
 // let newList = prepend(1, list);
@@ -2688,11 +2688,15 @@
 
 
 
+
+
+
+
 // let str1 = "Buckethead";
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-    
+   
 // }
 
 // console.log(isAnagram(str1, str2)); // true
@@ -3047,7 +3051,7 @@
 
 // function alphabetWar(fight){
 //         let map = {w: -4, p: -3, b: -2, s: -1, m: 4, q: 3, d: 2, z: 1};
-       
+      
 
 // };
 
@@ -3126,14 +3130,14 @@
 
 
 
-// let string = "aabacbaa";
+let string = "aabacbaa";
 
-// function switcheroo(x){
-    
+function switcheroo(x){
+  return x.replace(/[ab]/g, x => x === 'a' ? 'b' : 'a');
 
-// }
+}
 
-// console.log(switcheroo(string)); //"bbabcabb"
+console.log(switcheroo(string)); //"bbabcabb"
 
 
 
@@ -3211,7 +3215,7 @@
 
 
 
-// let array = ["Evi", "Lea", "Anna", "Laura", "Ida"];
+// let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
   
@@ -3268,7 +3272,7 @@
 // let string = "Hey fellow warriors";
 
 // function spinWords(str){
-    
+   
 // }
 
 // console.log(spinWords(string));//"Hey wollef sroirraw"
