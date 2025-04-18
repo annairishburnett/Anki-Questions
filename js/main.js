@@ -3130,14 +3130,14 @@
 
 
 
-let string = "aabacbaa";
+// let string = "aabacbaa";
 
-function switcheroo(x){
-  return x.replace(/[ab]/g, x => x === 'a' ? 'b' : 'a');
+// function switcheroo(x){
+  
 
-}
+// }
 
-console.log(switcheroo(string)); //"bbabcabb"
+// console.log(switcheroo(string)); //"bbabcabb"
 
 
 
