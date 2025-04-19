@@ -990,7 +990,7 @@
 
 
 // function sheepMurmur(num){
- 
+        
 // }
 
 // console.log(sheepMurmur(3));
@@ -1917,8 +1917,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-
-
+        
 // }
 
 // console.log(arrayToList(array));
