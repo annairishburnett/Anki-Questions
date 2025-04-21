@@ -2259,6 +2259,35 @@
 
 
 
+
+
+
+
+// let account = {
+       
+
+// }
+
+
+// account.describe();
+// account.credit(250);
+// account.credit(-80);
+// account.describe();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
@@ -3021,7 +3050,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-   
+
 // }
 
 // console.log(filterString(string)); // 11330
