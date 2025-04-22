@@ -226,7 +226,8 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-      
+
+
 // }
 
 // console.log(shuffle(arr));
@@ -1091,6 +1092,13 @@
 
 // console.log(sorted); // CSS, HTML, JavaScript
 // console.log(arr); // HTML, JavaScript, CSS (no changes)
+
+
+
+
+
+
+
 
 
 
@@ -2241,7 +2249,7 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-  
+
 // }
 
 // console.log(removeFirstAndLast(string)); //B2 C3
@@ -2264,7 +2272,7 @@
 
 
 // let account = {
-       
+      
 
 // }
 
@@ -3354,20 +3362,20 @@
 
 
 //1ST ITERATION
-let string = "aabBcde";
+// let string = "aabBcde";
 
-function countDuplicates(str){
-        let uniqueChars = [...new Set(str.toLowerCase().split(''))];
+// function countDuplicates(str){
+//         let uniqueChars = [...new Set(str.toLowerCase().split(''))];
 
-        return `${uniqueChars.length} # `
-        return uniqueChars;
-        let characters = {...uniqueChars};
+//         return `${uniqueChars.length} # `
+//         return uniqueChars;
+//         let characters = {...uniqueChars};
 
-        return characters;
+//         return characters;
 
-}
+// }
 
-console.log(countDuplicates(string));// returned: "5 #" -> wanted: 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
+// console.log(countDuplicates(string));// returned: "5 #" -> wanted: 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
 //What about using brackets to evaluate key at run time? 
 //Or can you get the element out of the array and use that element to count instances in the other array and add that all to the return string at the same time?
 //OOOHHH! We're looking for duplicates, not unique characters, got to start over with the pseudo code because you were trying to do the wrong thing (-: 
@@ -3410,7 +3418,7 @@ console.log(countDuplicates1(string1));// 2 # 'a' occurs twice and 'b' twice (`b
 // let schedule = {};
 
 // function isEmpty(obj){
- 
+      
 // }
 
 
@@ -3443,7 +3451,7 @@ console.log(countDuplicates1(string1));// 2 # 'a' occurs twice and 'b' twice (`b
 // }
          
 // function calcSum(salaries){
-    
+ 
 // }
 
 // console.log(calcSum(salaries));//390
@@ -3474,7 +3482,7 @@ console.log(countDuplicates1(string1));// 2 # 'a' occurs twice and 'b' twice (`b
       
       
 // function multiplyNumeric(obj){
-  
+
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
