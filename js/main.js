@@ -3335,65 +3335,15 @@
 
 
 
-//P: Input will be a string that contains only alphabetic characters (both uppercase and lowercase) and numeric digits. Any empty strings or other types of inputs? No
-//R: return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string
-//E: "abcde" -> 0 # no characters repeats more than once
-// "aabbcde" -> 2 # 'a' and 'b'
-// "aabBcde" -> 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
-// "indivisibility" -> 1 # 'i' occurs six times
-// "Indivisibilities" -> 2 # 'i' occurs seven times and 's' occurs twice
-// "aA11" -> 2 # 'a' and '1'
-// "ABBA" -> 2 # 'A' and 'B' each occur twice
-//E: None given
-//P: Psuedo code -> see comments in solution
 
-
-// 1 - create a function that takes in a string
-// 2 - convert the string to all lowercase characters with .toLowerCase()
-        //Actually maybe don't do this because they want to know about lowercase and uppercase letters (see 3rd example)
-// 3 - you could use new Set() to get the list of unique characters, then create variables for each and set them equal to 0, then loop through original string (converted to an array) and add each occurence to the total count for that character
-        //How do you create a variable for each unique character?
-// 4 - then use template literal to create sentence structure needed for the return
-// 5 - could also do all of this inside of .reduce and set up the template literal as the starting value for the accumulator
-        //Actually that might be difficult since we don't know what the structure will be until we break down the string
-// 6 - will need to use if(...) return statements and template literals depending on the conditions
-// 7 - return the value and call the function
-// 8 - this one seems tricky - I feel like I'm missing something, maybe regex logic? We'll see! Just try your best!
-
-
-//1ST ITERATION
 // let string = "aabBcde";
 
-// function countDuplicates(str){
-//         let uniqueChars = [...new Set(str.toLowerCase().split(''))];
-
-//         return `${uniqueChars.length} # `
-//         return uniqueChars;
-//         let characters = {...uniqueChars};
-
-//         return characters;
-
+// function duplicateCount(text) {
+       
 // }
 
-// console.log(countDuplicates(string));// returned: "5 #" -> wanted: 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
-//What about using brackets to evaluate key at run time? 
-//Or can you get the element out of the array and use that element to count instances in the other array and add that all to the return string at the same time?
-//OOOHHH! We're looking for duplicates, not unique characters, got to start over with the pseudo code because you were trying to do the wrong thing (-: 
+// console.log(duplicateCount(string));// 2 
 
-
-// 1 - create a function that takes in a string
-// 2 - 
-
-
-//2ND ITERATIONlet string = "aabBcde";
-let string1 = "aabBcde";
-
-function countDuplicates1(str){
-        
-
-}
-
-console.log(countDuplicates1(string1));// 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
 
 
 
