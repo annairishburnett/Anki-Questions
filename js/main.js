@@ -311,7 +311,7 @@
 // ];
 
 // function groupById(array){
-     
+    
 // }
 
 // let usersById = groupById(users);
@@ -1907,7 +1907,6 @@
 // let animals = ["sheep", "sheep", "sheep", "wolf", "sheep", "sheep", "sheep"];
 
 // function warnTheSheep(arr){
-   
     
 // }
 
@@ -2995,7 +2994,7 @@
 
 
 // function Calculator(){
-  
+ 
 
 // }
 
@@ -3087,7 +3086,6 @@
 
 // function alphabetWar(fight){
 //         let map = {w: -4, p: -3, b: -2, s: -1, m: 4, q: 3, d: 2, z: 1};
-      
 
 // };
 
@@ -3282,7 +3280,7 @@
 // let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
 // function createPhoneNumber(nums){
-   
+  
 // }
 
 // console.log(createPhoneNumber(number));// "(123) 456-7890"
@@ -3336,13 +3334,13 @@
 
 
 
-// let string = "aabBcde";
+// let string = "aa1bBcde1";
 
 // function duplicateCount(text) {
-       
+      
 // }
 
-// console.log(duplicateCount(string));// 2 
+// console.log(duplicateCount(string));// 3
 
 
 
@@ -3368,7 +3366,7 @@
 // let schedule = {};
 
 // function isEmpty(obj){
-      
+    
 // }
 
 
@@ -3401,7 +3399,7 @@
 // }
          
 // function calcSum(salaries){
- 
+
 // }
 
 // console.log(calcSum(salaries));//390
@@ -3443,3 +3441,19 @@
 //   height: 600,
 //   title: "My menu"
 // };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
