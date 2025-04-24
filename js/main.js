@@ -311,7 +311,7 @@
 // ];
 
 // function groupById(array){
-    
+   
 // }
 
 // let usersById = groupById(users);
@@ -1153,7 +1153,7 @@
 
 // const mouthSize = 
 
-// console.log(mouthSize("Alligator"));
+// console.log(mouthSize("Alligator"));// small
 
 
 
@@ -2418,7 +2418,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-            
+   
 // }
 
 // console.log(highAndLow(string));// "5 1"
@@ -3252,7 +3252,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-  
+ 
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3457,3 +3457,33 @@
 
 
 
+//P: input is a string, can contain spaces and special characters
+//R: a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
+//E: "din"      =>  "((("
+// "recede"   =>  "()()()"
+
+
+//3RD ITERATION
+// let string2 = "recede";
+
+// function duplicateEncoder2(str){
+//         let result = '';
+//         let newStr = str.toLowerCase();
+//         let arr = newStr.split('');
+
+//         for(let i = 0; i < arr.length; i++){
+//                 if(newStr.split('').sort().join('').match(/${arr[i]}\1+/g)){
+//                         result += ')';
+//                 }else{
+//                         result += '(';
+//                 }
+//         }
+//         return result;
+        
+// }
+
+// console.log(duplicateEncoder2(string2));// "()()()"
+
+//Returned: ((((((
+//Need to figure out how to select the current character from within the .match() function
+//
