@@ -3457,33 +3457,71 @@
 
 
 
-//P: input is a string, can contain spaces and special characters
-//R: a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
-//E: "din"      =>  "((("
-// "recede"   =>  "()()()"
 
+// let string = "recede";
 
-//3RD ITERATION
-// let string2 = "recede";
-
-// function duplicateEncoder2(str){
-//         let result = '';
-//         let newStr = str.toLowerCase();
-//         let arr = newStr.split('');
-
-//         for(let i = 0; i < arr.length; i++){
-//                 if(newStr.split('').sort().join('').match(/${arr[i]}\1+/g)){
-//                         result += ')';
-//                 }else{
-//                         result += '(';
-//                 }
-//         }
-//         return result;
-        
+// function duplicateEncode(word) {
+    
 // }
 
-// console.log(duplicateEncoder2(string2));// "()()()"
+// console.log(duplicateEncode(string)); // "()()()"
 
-//Returned: ((((((
-//Need to figure out how to select the current character from within the .match() function
-//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let user = {
+//     name: "John",
+//     age: 30
+// };
+      
+// let clone = Object.assign({}, user);
+    
+
+// console.log(clone.name); // John
+// console.log(clone.age); // 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let user = {
+//     name: "John",
+//     sizes: {
+//       height: 182,
+//       width: 50
+//     }
+// };
+      
+// let clone = 
+
+// console.log(user.sizes === clone.sizes); //false, different objects
+
+// // user and clone are totally unrelated now
+// user.sizes.width = 60;    // change a property from one place
+// console.log(clone.sizes.width); // 50, not related
