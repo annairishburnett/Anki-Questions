@@ -3277,13 +3277,13 @@
 
 
 
-let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+// let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
-function createPhoneNumber(nums){
-  return nums.reduce((number, num) => number.replace(/x/, num), '(xxx) xxx-xxxx');
-}
+// function createPhoneNumber(nums){
 
-console.log(createPhoneNumber(number));// "(123) 456-7890"
+// }
+
+// console.log(createPhoneNumber(number));// "(123) 456-7890"
 
 
 
