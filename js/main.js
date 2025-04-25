@@ -730,7 +730,7 @@
 // const initials = 
 
 
-// console.log(initials(name));
+// console.log(initials(name));// B.P
 
 
 
@@ -1387,7 +1387,7 @@
 // let nums = [1,2,3,4,5,6];
 
 // function findAverage(array) {
-    
+   
 // }
 
 // console.log(findAverage(nums)) // 3.5
@@ -2773,7 +2773,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-      
+     
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -3057,7 +3057,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-
+        
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3277,13 +3277,13 @@
 
 
 
-// let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
-// function createPhoneNumber(nums){
-  
-// }
+function createPhoneNumber(nums){
+  return nums.reduce((number, num) => number.replace(/x/, num), '(xxx) xxx-xxxx');
+}
 
-// console.log(createPhoneNumber(number));// "(123) 456-7890"
+console.log(createPhoneNumber(number));// "(123) 456-7890"
 
 
 
@@ -3395,11 +3395,11 @@
 // let salaries = {
 //      John: 100,
 //      Ann: 160,
-//      Pete: 130
+//      Pete: 130,
 // }
          
 // function calcSum(salaries){
-
+       
 // }
 
 // console.log(calcSum(salaries));//390
@@ -3430,7 +3430,7 @@
       
       
 // function multiplyNumeric(obj){
-
+       
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
@@ -3460,8 +3460,8 @@
 
 // let string = "recede";
 
-// function duplicateEncode(word) {
-    
+// function duplicateEncode(word){
+        
 // }
 
 // console.log(duplicateEncode(string)); // "()()()"
@@ -3490,7 +3490,7 @@
 //     age: 30
 // };
       
-// let clone = Object.assign({}, user);
+// let clone = 
     
 
 // console.log(clone.name); // John
