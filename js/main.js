@@ -3338,6 +3338,8 @@
 
 // function duplicateCount(text) {
       
+
+
 // }
 
 // console.log(duplicateCount(string));// 3
