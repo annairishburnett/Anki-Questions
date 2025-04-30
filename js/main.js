@@ -311,7 +311,7 @@
 // ];
 
 // function groupById(array){
-
+       
 // }
 
 // let usersById = groupById(users);
@@ -1974,7 +1974,7 @@
 // };
 
 // function listToArray(list){
-    
+   
 // }
 
 // console.log(listToArray(list1));
@@ -3432,7 +3432,7 @@
       
       
 // function multiplyNumeric(obj){
-       
+   
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
@@ -3463,7 +3463,7 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-        
+    
 // }
 
 // console.log(duplicateEncode(string)); // "()()()"
