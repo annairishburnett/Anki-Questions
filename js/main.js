@@ -1384,13 +1384,13 @@
 
 
 
-let nums = [1,2,3,4,5,6];
+// let nums = [1,2,3,4,5,6];
 
-function findAverage(array) {
-   return array.reduce((total, num) => total + num, 0) / (array.length > 0 ? array.length : 1);
-}
+// function findAverage(array) {
+   
+// }
 
-console.log(findAverage(nums)) // 3.5
+// console.log(findAverage(nums)) // 3.5
 
 
 
