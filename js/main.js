@@ -311,7 +311,7 @@
 // ];
 
 // function groupById(array){
-       
+      
 // }
 
 // let usersById = groupById(users);
@@ -1384,13 +1384,13 @@
 
 
 
-// let nums = [1,2,3,4,5,6];
+let nums = [1,2,3,4,5,6];
 
-// function findAverage(array) {
-   
-// }
+function findAverage(array) {
+   return array.reduce((total, num) => total + num, 0) / (array.length > 0 ? array.length : 1);
+}
 
-// console.log(findAverage(nums)) // 3.5
+console.log(findAverage(nums)) // 3.5
 
 
 
@@ -1745,9 +1745,7 @@
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
-//     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
-    
- 
+  
 // }
 
 // console.log(gooseFilter(birds)); // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
@@ -1974,7 +1972,7 @@
 // };
 
 // function listToArray(list){
-   
+  
 // }
 
 // console.log(listToArray(list1));
@@ -2128,7 +2126,7 @@
 // };
   
 // function nth(num, list){
-       
+      
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2231,6 +2229,24 @@
 
 // followingDay();
 
+
+
+
+
+
+
+
+
+
+
+
+// function followingSecond(){
+      
+
+// }
+
+
+// followingSecond();// The following second is: 6hrs 0mins 0secs.
 
 
 
@@ -2872,7 +2888,7 @@
 // let num = 35;
 
 // function digits(int){
-  
+ 
 // }
 
 // console.log(digits(num)); //2
@@ -3167,7 +3183,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-  
+ 
 
 // }
 
@@ -3463,7 +3479,7 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-    
+   
 // }
 
 // console.log(duplicateEncode(string)); // "()()()"
