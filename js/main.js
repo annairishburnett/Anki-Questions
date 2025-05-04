@@ -940,7 +940,9 @@
 
 // let nums = [2,0,5,9,8];
 
-// const sumSecondHighAndLow = 
+// const sumSecondHighAndLow = arr => {
+       
+// }
 
 // console.log(sumSecondHighAndLow(nums)); // 10
 
@@ -1450,7 +1452,7 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
- 
+        
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -2190,7 +2192,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-   
+  
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -3101,11 +3103,11 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-//         let map = {w: -4, p: -3, b: -2, s: -1, m: 4, q: 3, d: 2, z: 1};
-
+      
 // };
 
 // console.log(alphabetWar(string));// Right side wins!
+
 
 
 
@@ -3207,7 +3209,7 @@
 // let array = ["1.2", "2.3", "3.4"];
 
 // function toNumberArray(arr){
-  
+ 
 // }
 
 // console.log(toNumberArray(array)); // [1.2, 2.3, 3.4]
@@ -3296,7 +3298,7 @@
 // let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
 // function createPhoneNumber(nums){
-
+        
 // }
 
 // console.log(createPhoneNumber(number));// "(123) 456-7890"
