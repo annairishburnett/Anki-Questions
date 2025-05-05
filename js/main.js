@@ -2865,7 +2865,7 @@
 
 
 // function greetMe(str){
-  
+
 // }
 
 // console.log(greetMe('anna')); //'Hello Anna!'
@@ -3442,6 +3442,8 @@
 
 
 
+
+
 // let menu = {
 //      width: 200,
 //      height: 300,
@@ -3450,7 +3452,7 @@
       
       
 // function multiplyNumeric(obj){
-   
+ 
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
