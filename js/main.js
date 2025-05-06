@@ -914,7 +914,7 @@
 
 // const greet = 
 
-// console.log(greet('Anna', 'Anna'));
+// console.log(greet('Anna', 'Anna'));// 'Hello boss'
 
 
 
@@ -2316,7 +2316,7 @@
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
-   
+
 // }
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
 
@@ -2768,10 +2768,10 @@
 
 
 // let url = "www.codewars.com#about";
-// let url = "www.codewars.com/katas/";
+// // let url = "www.codewars.com/katas/";
 
 // function removeURLAnchor(url){
-  
+//   return url.split('#')[0];
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
@@ -3012,7 +3012,7 @@
 
 
 // function Calculator(){
- 
+       
 
 // }
 
@@ -3185,7 +3185,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
- 
+       
 
 // }
 
@@ -3355,7 +3355,7 @@
 // let string = "aa1bBcde1";
 
 // function duplicateCount(text) {
-      
+   
 
 
 // }
@@ -3483,7 +3483,7 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-   
+  
 // }
 
 // console.log(duplicateEncode(string)); // "()()()"
