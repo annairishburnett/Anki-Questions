@@ -311,7 +311,7 @@
 // ];
 
 // function groupById(array){
-      
+     
 // }
 
 // let usersById = groupById(users);
@@ -1974,7 +1974,7 @@
 // };
 
 // function listToArray(list){
-  
+ 
 // }
 
 // console.log(listToArray(list1));
@@ -2617,7 +2617,6 @@
 
 
 
-
 // console.log(dnaStrand(dnaSample)); //"TAACG"
 
 
@@ -3130,6 +3129,7 @@
 // let string = "CodeWars";
 
 // function sortMyString(s){
+       
     
 // }
 
@@ -3209,7 +3209,8 @@
 // let array = ["1.2", "2.3", "3.4"];
 
 // function toNumberArray(arr){
- 
+        
+
 // }
 
 // console.log(toNumberArray(array)); // [1.2, 2.3, 3.4]
@@ -3355,7 +3356,7 @@
 // let string = "aa1bBcde1";
 
 // function duplicateCount(text) {
-   
+  
 
 
 // }
@@ -3483,6 +3484,7 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
+     
   
 // }
 
