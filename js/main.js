@@ -875,7 +875,7 @@
 // }
 
 // function playGameXTimes(arr){
-    
+ 
 // }
 
 // playGameXTimes(['rock', 'paper', 'scissors']); // always different
@@ -1562,7 +1562,7 @@
 
 // theComplexProgrammingLanguage
 
-// console.log(theComplexProgrammingLanguage);
+// console.log(theComplexProgrammingLanguage); //['I', 'study', 'the', 'complex', 'programming', 'language', 'JavaScript']
 
 
 
@@ -2436,6 +2436,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
+       
    
 // }
 
@@ -3325,6 +3326,7 @@
 // let string = "Hey fellow warriors";
 
 // function spinWords(str){
+        
    
 // }
 
