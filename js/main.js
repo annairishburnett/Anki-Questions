@@ -1807,7 +1807,7 @@
 // let arr2 = [1, 2, 3, 4, 5, 10, 12];
 
 // function mergArrays(arr1,arr2){
-   
+  
 // }
 
 // console.log(mergArrays(arr1, arr2)); //[1, 2, 3, 4, 5, 7, 9, 10, 11, 12]
@@ -2145,10 +2145,8 @@
 
 
 
-
-
 // function deepEqual(a, b){
-   
+  
 // }
  
  
@@ -2192,7 +2190,7 @@
 // let array = [2, 1, 10];
 
 // function sumOfDifferences(arr){
-  
+	
 // }
 
 // console.log(sumOfDifferences(array)); // 9
@@ -2243,6 +2241,8 @@
 
 
 // function followingSecond(){
+   
+
     
 
 // }
@@ -2266,7 +2266,7 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-
+	
 // }
 
 // console.log(removeFirstAndLast(string)); //B2 C3
@@ -2791,7 +2791,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-     
+
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2815,7 +2815,7 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
- 
+    
 
 // }
 
@@ -2890,7 +2890,7 @@
 // let num = 35;
 
 // function digits(int){
- 
+       
 // }
 
 // console.log(digits(num)); //2
@@ -3075,7 +3075,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-        
+      
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3300,7 +3300,7 @@
 // let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
 // function createPhoneNumber(nums){
-        
+	
 // }
 
 // console.log(createPhoneNumber(number));// "(123) 456-7890"
