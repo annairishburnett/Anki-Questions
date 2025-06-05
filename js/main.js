@@ -2791,7 +2791,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-
+	
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
