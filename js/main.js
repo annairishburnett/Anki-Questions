@@ -226,8 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-
-
+	
 // }
 
 // console.log(shuffle(arr));
@@ -1273,6 +1272,7 @@
 
 
 
+
 // function countChar(str, letter){
     
 // }
@@ -1389,7 +1389,7 @@
 // let nums = [1,2,3,4,5,6];
 
 // function findAverage(array) {
-   
+
 // }
 
 // console.log(findAverage(nums)) // 3.5
@@ -2289,7 +2289,7 @@
 
 
 // let account = {
-      
+     
 
 // }
 
@@ -2749,7 +2749,7 @@
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
-   
+ 
 // }
 
 // console.log(isAnagram(str1, str2)); // true
@@ -3103,7 +3103,9 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-      
+   
+	
+
 // };
 
 // console.log(alphabetWar(string));// Right side wins!
@@ -3422,7 +3424,7 @@
 // }
          
 // function calcSum(salaries){
-       
+	
 // }
 
 // console.log(calcSum(salaries));//390
@@ -3431,6 +3433,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+// const weather = prompt("What's the weather like?");
 
 
 
@@ -3455,7 +3468,7 @@
       
       
 // function multiplyNumeric(obj){
- 
+	
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
