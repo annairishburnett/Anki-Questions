@@ -53,7 +53,7 @@
 // let sentence = ['Loose', 'enough', 'to', 'move', 'freely', 'but', 'tight', 'enough', 'to', 'never', 'let', 'you', 'go'];
 
 // function smash(arr){
-  
+   
 // }
 
 // console.log(smash(sentence));
@@ -72,7 +72,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-      
+     
 // }
 
 // filterRangeInPlace(arr, 1,4);
@@ -198,13 +198,6 @@
 
 
 
-
-
-// let number = 35231;
-
-// const reverseNum = 
-
-// console.log(reverseNum(number)); // [1, 3, 2, 5, 3]
 
 
 
@@ -483,6 +476,32 @@
 
 
 
+
+
+
+// let number = 35231;
+
+// const reverseNum =
+
+
+// console.log(reverseNum(number)); // [1,3,2,5,3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // const movies = ['Princess Bride', 'The Fellowship of the Ring', 'Hidden Figures', 'Sea Beast'];
 
 
@@ -746,7 +765,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-       
+    
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -1161,6 +1180,9 @@
 
 
 
+
+
+
 // function feast(beast, dish){
    
 
@@ -1274,7 +1296,7 @@
 
 
 // function countChar(str, letter){
-    
+   
 // }
 
 // console.log(countChar('Hell', 'l')); // 2
@@ -1540,7 +1562,7 @@
 // let arr = ["Keep", "Remove", "Keep", "Remove", "Keep"];
 
 // function removeEveryOther(arr) {
-   
+  
 // }
 
 // console.log(removeEveryOther(arr)); // ["Keep", "Keep", "Keep"]
@@ -1725,7 +1747,7 @@
 
 
 // function findMultiples(integer, limit){
-  
+    
 // }
 
 // console.log(findMultiples(2,6)); // [2, 4, 6]
@@ -1785,7 +1807,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-      
+  
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -2316,7 +2338,7 @@
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
-
+ 
 // }
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
 
@@ -2461,11 +2483,10 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
- 
+    
 // }
 
 // console.log(getMiddleChar(string)); // "i"
-
 
 
 
@@ -2979,7 +3000,7 @@
 // let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
 
 // function removeDuplicateWords(s){
-  
+ 
 // }
 
 // console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
@@ -3052,7 +3073,7 @@
 // const string = "nnn_n__n_n___nnnnn___n__nnn__";
 
 // function bump(x){
-  
+
 // }
 
 // console.log(bump(string)); // Woohoo!
@@ -3158,7 +3179,7 @@
 // let string = "312";
 
 // function explode(s){
-  
+   
 // }
 
 // console.log(explode(string)); // "333122"
@@ -3274,7 +3295,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
- 
+  
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3391,7 +3412,7 @@
 // let schedule = {};
 
 // function isEmpty(obj){
-    
+   
 // }
 
 
@@ -3441,9 +3462,7 @@
 
 
 
-
-
-// const weather = prompt("What's the weather like?");
+// let movies = ["Sea Beast", "The Fellowship of the Ring", "Hidden Figures", "Night Bitch"];
 
 
 
