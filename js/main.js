@@ -294,8 +294,6 @@
 
 
 
-
-
 // let users = [
 //   {id: 'john', name: "John Smith", age: 20 },
 //   {id: 'ann', name: "Ann Smith", age: 24 },
@@ -303,7 +301,7 @@
 // ];
 
 // function groupById(array){
-     
+
 // }
 
 // let usersById = groupById(users);
@@ -1996,7 +1994,7 @@
 // };
 
 // function listToArray(list){
- 
+  
 // }
 
 // console.log(listToArray(list1));
@@ -2077,6 +2075,8 @@
 
 
 
+
+
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
@@ -2094,6 +2094,14 @@
 
 
 
+
+
+
+// let numbers = [1,2,3,4,5,6,7,8,9];
+
+// const squareNums = 
+
+// console.log(squareNums(numbers)); // [1, 4, 9, 16, 25, 36, 49, 64, 81]
 
 
 
@@ -3374,15 +3382,10 @@
 
 
 
-
-
-
-
 // let string = "aa1bBcde1";
 
 // function duplicateCount(text) {
-  
-
+   
 
 // }
 
@@ -3518,7 +3521,9 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-     
+  
+
+  
   
 // }
 
