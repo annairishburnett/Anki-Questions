@@ -306,7 +306,7 @@
 // ];
 
 // function groupById(array){
-
+   
 // }
 
 // let usersById = groupById(users);
@@ -484,7 +484,7 @@
 
 // let number = 35231;
 
-// const reverseNum =
+// const reverseNum = 
 
 
 // console.log(reverseNum(number)); // [1,3,2,5,3]
@@ -1543,7 +1543,7 @@
 
 
 // function countByFive(num){
-    
+  
 // }
 
 // countByFive(16);
@@ -1997,7 +1997,7 @@
 // };
 
 // function listToArray(list){
-  
+   
 // }
 
 // console.log(listToArray(list1));
@@ -2179,7 +2179,8 @@
 
 
 // function deepEqual(a, b){
-  
+   
+
 // }
  
  
@@ -2420,6 +2421,7 @@
 // }
 
 // console.log(disemvowel(string)); //Ths wbst s s fnny LL!
+
 
 
 
@@ -3525,7 +3527,8 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-   
+    
+
   
   
 // }
