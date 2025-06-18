@@ -69,6 +69,11 @@
 
 
 
+
+
+
+
+
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
@@ -404,7 +409,7 @@
 // let scores = ["3:1", "2:2", "0:1", "4:1", "2:0", "3:1", "2:2", "0:1", "4:1", "2:0"];
 
 // function teamScore(games){
-    
+  
 // }
 
 // console.log(teamScore(scores)); // 20
@@ -891,7 +896,7 @@
 // }
 
 // function playGameXTimes(arr){
- 
+   
 // }
 
 // playGameXTimes(['rock', 'paper', 'scissors']); // always different
@@ -1009,7 +1014,7 @@
 
 
 // function sheepMurmur(num){
-        
+  
 // }
 
 // console.log(sheepMurmur(3));
@@ -1275,6 +1280,8 @@
 
 
 
+
+
 // let string = 'Banana';
 
 // function countBs(str){
@@ -1445,9 +1452,6 @@
 
 
 
-
-
-
 // //COPY AND PASTE THIS
 // function Circle(radius){
 //     this.radius = radius;
@@ -1472,7 +1476,7 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
-        
+   
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1485,7 +1489,6 @@
 
 
 // let isNightTime = true;
-
 
 
 
@@ -1638,7 +1641,7 @@
 
 
 // function howMuchILoveYou(nbPetals) {
-   
+ 
 // }
 
 // console.log(howMuchILoveYou(18)); // not at all
@@ -1827,7 +1830,7 @@
 // let arr2 = [1, 2, 3, 4, 5, 10, 12];
 
 // function mergArrays(arr1,arr2){
-  
+    
 // }
 
 // console.log(mergArrays(arr1, arr2)); //[1, 2, 3, 4, 5, 7, 9, 10, 11, 12]
@@ -2158,7 +2161,7 @@
 // };
   
 // function nth(num, list){
-      
+    
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2296,7 +2299,8 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-	
+
+
 // }
 
 // console.log(removeFirstAndLast(string)); //B2 C3
@@ -2382,7 +2386,7 @@
 
 // let string = 'ttt';
 
-// function getCount(str) {
+// function getCount(str){
    
 // }
 
@@ -2527,7 +2531,7 @@
 
 
 // function isEven(num){
-   
+  
 // }
   
   
@@ -2647,6 +2651,8 @@
 
 
 
+
+
 // console.log(dnaStrand(dnaSample)); //"TAACG"
 
 
@@ -2687,7 +2693,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-  
+    
 // }
 
 // console.log(maskify(string));//##ippy
@@ -2919,7 +2925,7 @@
 // let num = 35;
 
 // function digits(int){
-       
+   
 // }
 
 // console.log(digits(num)); //2
@@ -3041,7 +3047,7 @@
 
 
 // function Calculator(){
-       
+     
 
 // }
 
@@ -3081,7 +3087,7 @@
 // const string = "nnn_n__n_n___nnnnn___n__nnn__";
 
 // function bump(x){
-
+   
 // }
 
 // console.log(bump(string)); // Woohoo!
@@ -3104,7 +3110,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-      
+     
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3217,7 +3223,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-       
+   
 
 // }
 
@@ -3241,7 +3247,7 @@
 // let array = ["1.2", "2.3", "3.4"];
 
 // function toNumberArray(arr){
-        
+   
 
 // }
 
@@ -3480,8 +3486,6 @@
 
 
 
-
-
 // let menu = {
 //      width: 200,
 //      height: 300,
@@ -3521,8 +3525,7 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-  
-
+   
   
   
 // }
