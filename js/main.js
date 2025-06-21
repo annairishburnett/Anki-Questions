@@ -1770,7 +1770,9 @@
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
-  
+//     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
+
+   
 // }
 
 // console.log(gooseFilter(birds)); // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
@@ -2300,7 +2302,7 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-
+    
 
 // }
 
@@ -3049,8 +3051,7 @@
 
 
 // function Calculator(){
-     
-
+ 
 // }
 
 // let calc = new Calculator;
@@ -3311,7 +3312,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-  
+    
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3527,8 +3528,6 @@
 // let string = "recede";
 
 // function duplicateEncode(word){
-    
-
   
   
 // }
