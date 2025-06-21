@@ -299,19 +299,19 @@
 
 
 
-// let users = [
-//   {id: 'john', name: "John Smith", age: 20 },
-//   {id: 'ann', name: "Ann Smith", age: 24 },
-//   {id: 'pete', name: "Pete Peterson", age: 31 },
-// ];
+let users = [
+  {id: 'john', name: "John Smith", age: 20 },
+  {id: 'ann', name: "Ann Smith", age: 24 },
+  {id: 'pete', name: "Pete Peterson", age: 31 },
+];
 
-// function groupById(array){
-   
-// }
+function groupById(array){
+   return array.reduce((obj, val) )
+}
 
-// let usersById = groupById(users);
+let usersById = groupById(users);
 
-// console.log(usersById); 
+console.log(usersById); 
 
 
 //DON'T UNCOMMENT BELOW:
