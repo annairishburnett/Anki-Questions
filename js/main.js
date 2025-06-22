@@ -299,19 +299,19 @@
 
 
 
-let users = [
-  {id: 'john', name: "John Smith", age: 20 },
-  {id: 'ann', name: "Ann Smith", age: 24 },
-  {id: 'pete', name: "Pete Peterson", age: 31 },
-];
+// let users = [
+//   {id: 'john', name: "John Smith", age: 20 },
+//   {id: 'ann', name: "Ann Smith", age: 24 },
+//   {id: 'pete', name: "Pete Peterson", age: 31 },
+// ];
 
-function groupById(array){
-   return array.reduce((obj, val) )
-}
+// function groupById(array){
+  
+// }
 
-let usersById = groupById(users);
+// let usersById = groupById(users);
 
-console.log(usersById); 
+// console.log(usersById); 
 
 
 //DON'T UNCOMMENT BELOW:
@@ -2163,7 +2163,7 @@ console.log(usersById);
 // };
   
 // function nth(num, list){
-    
+   
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2831,6 +2831,7 @@ console.log(usersById);
 
 // function capitals(word) {
 	
+
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
