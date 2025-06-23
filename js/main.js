@@ -306,7 +306,7 @@
 // ];
 
 // function groupById(array){
-  
+   
 // }
 
 // let usersById = groupById(users);
@@ -2499,7 +2499,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-    
+   
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -3171,7 +3171,7 @@
 // let string = "CodeWars";
 
 // function sortMyString(s){
-       
+    
     
 // }
 
