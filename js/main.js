@@ -306,7 +306,7 @@
 // ];
 
 // function groupById(array){
-   
+  
 // }
 
 // let usersById = groupById(users);
@@ -371,7 +371,7 @@
 // let string = ["A", "B", "C"];
 
 // const reverseArray = arr => {
-  
+    
 // }
 
 // console.log(reverseArray(string));
@@ -684,7 +684,7 @@
 // const rapperArray = ["Lil' Kim", "Jay-Z", "Notorious B.I.G.", "Tupac"];
 
 // for(let i = 0; i < rapperArray.length; i++){
-  
+ 
  
   
 // }
@@ -1773,9 +1773,7 @@
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
-//     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
-
-   
+    
 // }
 
 // console.log(gooseFilter(birds)); // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
@@ -2018,6 +2016,23 @@
 
 
 
+// const headsOrTails = _ => Math.random() < 0.5 ? 'Heads' : 'Tails';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // let string = 'Hello World';
@@ -2166,7 +2181,7 @@
 // };
   
 // function nth(num, list){
-   
+  
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2503,7 +2518,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-   
+ 
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2635,7 +2650,7 @@
 // let string = "abcd";
 
 // function accum(s){
-   
+    
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
@@ -2855,7 +2870,6 @@
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
-
 
 
 
@@ -3153,7 +3167,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-     
+    
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3266,7 +3280,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
- 
+    
 
 // }
 
@@ -3491,9 +3505,9 @@
 
 
 // let salaries = {
-//      John: 100,
-//      Ann: 160,
-//      Pete: 130,
+//     John: 100,
+//     Ann: 160,
+//     Pete: 130,
 // }
          
 // function calcSum(salaries){
