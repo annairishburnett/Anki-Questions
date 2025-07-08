@@ -426,7 +426,7 @@
 
 
 
-// console.log(evenOrOdd(num));
+// console.log(evenOrOdd(num));// Odd
 
 
 
@@ -837,7 +837,7 @@
 // let array = [30,20,30];
 
 // function closingTime(arr){
-
+ 
 // }
 
 // closingTime(array);
@@ -958,10 +958,12 @@
 
 
 
+
+
 // let nums = [2,0,5,9,8];
 
 // const sumSecondHighAndLow = arr => {
-       
+   
 // }
 
 // console.log(sumSecondHighAndLow(nums)); // 10
@@ -1454,7 +1456,6 @@
 
 
 
-
 // //COPY AND PASTE THIS
 // function Circle(radius){
 //     this.radius = radius;
@@ -1468,6 +1469,7 @@
 // for(let key in circle){
 //     console.log(key, circle[key]);
 // }
+// //radius 10
 
 
 
@@ -2000,7 +2002,7 @@
 // };
 
 // function listToArray(list){
-   
+ 
 // }
 
 // console.log(listToArray(list1));
@@ -2199,8 +2201,7 @@
 
 
 // function deepEqual(a, b){
-   
-
+  
 // }
  
  
@@ -2209,6 +2210,9 @@
 // console.log(deepEqual(obj, obj));// → true
 // console.log(deepEqual(obj, {here: 1, object: 2}));// → false
 // console.log(deepEqual(obj, {here: {is: "an"}, object: 2})); // → true
+
+
+
 
 
 
@@ -2493,7 +2497,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-       
+   
    
 // }
 
@@ -2674,8 +2678,6 @@
 
 
 
-
-
 // console.log(dnaStrand(dnaSample)); //"TAACG"
 
 
@@ -2697,7 +2699,6 @@
 
 //add "Enter" functionality
 // document.querySelector('#getCocktail').addEventListener('click', getDrink);
-
 
 // function getDrink(){
 
@@ -3107,7 +3108,7 @@
 
 
 // function Calculator(){
- 
+   
 // }
 
 // let calc = new Calculator;
