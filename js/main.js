@@ -2105,7 +2105,7 @@
 // let arr = [4,3,9,7,2,1];
 
 // function squareOrSquareRoot(array){
-   
+    
 // }
 
 // console.log(squareOrSquareRoot(arr)); // [2,9,3,49,4,1]
@@ -2324,7 +2324,7 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-  
+   
 
 // }
 
@@ -2502,7 +2502,6 @@
 // }
 
 // console.log(highAndLow(string));// "5 1"
-
 
 
 
@@ -3108,7 +3107,7 @@
 
 
 // function Calculator(){
-   
+ 
 // }
 
 // let calc = new Calculator;
