@@ -1775,6 +1775,8 @@
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
+//     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
+
     
 // }
 
@@ -2037,13 +2039,13 @@
 
 
 
-// let string = 'Hello World';
+let string = 'Hello World';
 
-// function repeatChar(str){
-   
-// }
+function repeatChar(str){
+   return str.split('').map(char => char.repeat(2)).join('');
+}
 
-// console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
+console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
 
 
 
