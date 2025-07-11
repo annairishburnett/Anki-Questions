@@ -306,7 +306,7 @@
 // ];
 
 // function groupById(array){
-  
+      
 // }
 
 // let usersById = groupById(users);
@@ -1954,7 +1954,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-	
+      
 // }
 
 // console.log(arrayToList(array));
@@ -2039,13 +2039,13 @@
 
 
 
-let string = 'Hello World';
+// let string = 'Hello World';
 
-function repeatChar(str){
-   return str.split('').map(char => char.repeat(2)).join('');
-}
+// function repeatChar(str){
+   
+// }
 
-console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
+// console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
 
 
 
@@ -3339,7 +3339,7 @@ console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
 
 
 // function countDevelopers(devs){
-        
+    
 // }
 
 // console.log(countDevelopers(list)); //2
