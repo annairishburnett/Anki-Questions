@@ -77,7 +77,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-     
+    
 // }
 
 // filterRangeInPlace(arr, 1,4);
@@ -2467,6 +2467,7 @@
 
 
 
+
 //Copy and paste section below, don't edit
 // fetch("https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita")
 //     .then(res => res.json()) // parse response as JSON
@@ -2962,10 +2963,10 @@
 
 
 // function greetMe(str){
-
+    
 // }
 
-// console.log(greetMe('anna')); //'Hello Anna!'
+// console.log(greetMe('aNNA')); //'Hello Anna!'
 
 
 
