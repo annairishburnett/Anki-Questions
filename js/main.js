@@ -2004,7 +2004,7 @@
 // };
 
 // function listToArray(list){
- 
+
 // }
 
 // console.log(listToArray(list1));
