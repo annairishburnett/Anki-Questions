@@ -1863,7 +1863,7 @@
 
 
 // function nMultiplesOfX(x, n){
-  
+   
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -2524,7 +2524,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
- 
+    
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2701,6 +2701,8 @@
 
 //add "Enter" functionality
 // document.querySelector('#getCocktail').addEventListener('click', getDrink);
+
+
 
 // function getDrink(){
 
@@ -3111,6 +3113,8 @@
 
 // function Calculator(){
  
+
+
 // }
 
 // let calc = new Calculator;
@@ -3125,6 +3129,7 @@
 // let result = powerCalc.calculate("2 ** 3");
 // console.log(result);//8
 
+// //NaN because the "/" method was added to powerCalc, not calc
 // console.log(calc.calculate("4 / 2"));//NaN
 
 
