@@ -869,6 +869,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 // function rockPaperScissors(){
 //     let result = Math.random();
 
@@ -1093,7 +1104,7 @@
 
 
 // function multiplicationTable(num){
-        
+   
 // }
 
 // console.log(multiplicationTable(5));
@@ -1815,7 +1826,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-  
+    
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1863,7 +1874,7 @@
 
 
 // function nMultiplesOfX(x, n){
-   
+
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -3203,7 +3214,8 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
- 
+//     const war = { w: -4, p: -3, b: -2, s: -1, m: 4, q: 3, d: 2, z: 1};
+    
 	
 
 // };
@@ -3312,7 +3324,7 @@
 // let array = ["1.2", "2.3", "3.4"];
 
 // function toNumberArray(arr){
-   
+  
 
 // }
 
@@ -3559,7 +3571,7 @@
       
       
 // function multiplyNumeric(obj){
-	
+   
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
@@ -3590,7 +3602,7 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-   
+    
   
 // }
 
