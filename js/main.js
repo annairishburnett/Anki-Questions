@@ -2425,7 +2425,7 @@
 // let string = 'ttt';
 
 // function getCount(str){
-   
+    
 // }
 
 // console.log(getCount(string));// 0
@@ -2554,7 +2554,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-  
+    
 // }
 
 // console.log(isIsogram(string)); // true
@@ -3524,6 +3524,7 @@
 
 
 
+
 // let salaries = {
 //     John: 100,
 //     Ann: 160,
@@ -3531,7 +3532,7 @@
 // }
          
 // function calcSum(salaries){
-	
+   
 // }
 
 // console.log(calcSum(salaries));//390
