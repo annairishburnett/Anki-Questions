@@ -767,7 +767,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-    
+  
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -1826,7 +1826,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-    
+ 
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -2196,7 +2196,7 @@
 // };
   
 // function nth(num, list){
-  
+    
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2667,7 +2667,7 @@
 // let string = "abcd";
 
 // function accum(s){
-    
+   
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
