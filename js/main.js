@@ -1638,7 +1638,6 @@
 
 // function firstNonConsecutive(arr){
    
-     
 
 // }
 
@@ -2015,7 +2014,7 @@
 // };
 
 // function listToArray(list){
-
+    
 // }
 
 // console.log(listToArray(list1));
@@ -2663,11 +2662,10 @@
 
 
 
-
 // let string = "abcd";
 
 // function accum(s){
-   
+  
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
@@ -2898,14 +2896,17 @@
 
 
 
-// let string = "CodEWaRs";
+let string = "CodEWaRs";
 
-// function capitals(word) {
-	
+function capitals(word) {
+	return word.split('').reduce((result, char, index) => {
+        if(char === char.toUpperCase()) result.push(index);
+        return result;
+    }, []);
 
-// }
+}
 
-// console.log(capitals(string)); // [0,3,4,6]
+console.log(capitals(string)); // [0,3,4,6]
 
 
 
@@ -3123,7 +3124,7 @@
 
 
 // function Calculator(){
- 
+  
 
 
 // }
