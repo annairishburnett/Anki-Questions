@@ -1787,6 +1787,7 @@
 // function gooseFilter(birds) {
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
 
+   
     
 // }
 
@@ -2896,17 +2897,14 @@
 
 
 
-let string = "CodEWaRs";
+// let string = "CodEWaRs";
 
-function capitals(word) {
-	return word.split('').reduce((result, char, index) => {
-        if(char === char.toUpperCase()) result.push(index);
-        return result;
-    }, []);
+// function capitals(word) {
+	
 
-}
+// }
 
-console.log(capitals(string)); // [0,3,4,6]
+// console.log(capitals(string)); // [0,3,4,6]
 
 
 
