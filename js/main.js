@@ -3667,3 +3667,33 @@
 // // user and clone are totally unrelated now
 // user.sizes.width = 60;    // change a property from one place
 // console.log(clone.sizes.width); // 50, not related
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function sayHello(name, city, state){
+ 
+// }
+
+// console.log(sayHello(['Piyanart', 'Promsawad'], 'Marquette', 'Michigan')); // Hello, Piyanart Promsawad! Welcome to Marquette, Michigan!
+
+
+
+
