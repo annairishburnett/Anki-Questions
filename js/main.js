@@ -3689,7 +3689,7 @@
 
 
 // function sayHello(name, city, state){
- 
+    
 // }
 
 // console.log(sayHello(['Piyanart', 'Promsawad'], 'Marquette', 'Michigan')); // Hello, Piyanart Promsawad! Welcome to Marquette, Michigan!
