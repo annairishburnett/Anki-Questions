@@ -924,6 +924,21 @@
 
 
 
+// let nums = [10,20,30];
+
+// const average = 
+
+// console.log(average(nums)); //60
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2425,7 +2440,7 @@
 // let string = 'ttt';
 
 // function getCount(str){
-    
+   
 // }
 
 // console.log(getCount(string));// 0
@@ -3122,8 +3137,7 @@
 
 
 // function Calculator(){
-  
-
+ 
 
 // }
 
