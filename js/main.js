@@ -306,7 +306,7 @@
 // ];
 
 // function groupById(array){
-      
+  
 // }
 
 // let usersById = groupById(users);
@@ -314,7 +314,7 @@
 // console.log(usersById); 
 
 
-//DON'T UNCOMMENT BELOW:
+// DON'T UNCOMMENT BELOW:
 // ann: {id: 'ann', name: 'Ann Smith', age: 24}
 // john: {id: 'john', name: 'John Smith', age: 20}
 // pete: {id: 'pete', name: 'Pete Peterson', age: 31}
@@ -2681,7 +2681,7 @@
 // let string = "abcd";
 
 // function accum(s){
-  
+    
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
@@ -3574,9 +3574,6 @@
 
 
 
-
-
-
 // let menu = {
 //      width: 200,
 //      height: 300,
@@ -3585,7 +3582,7 @@
       
       
 // function multiplyNumeric(obj){
-   
+  
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
