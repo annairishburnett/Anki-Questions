@@ -1652,8 +1652,7 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-   
-
+  
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -1841,7 +1840,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
- 
+    
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1889,7 +1888,7 @@
 
 
 // function nMultiplesOfX(x, n){
-
+   
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -1980,7 +1979,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-      
+    
 // }
 
 // console.log(arrayToList(array));
