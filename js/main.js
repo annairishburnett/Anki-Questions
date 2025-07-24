@@ -451,22 +451,13 @@
 
 
 
-// Examples
-// "Hi!"     ---> "Hi"
-// "Hi!!!"   ---> "Hi!!"
-// "!Hi"     ---> "!Hi"
-// "!Hi!"    ---> "!Hi"
-// "Hi! Hi!" ---> "Hi! Hi"
-// "Hi"      ---> "Hi"
+// let string = "!Hi!";
 
-//use ternary operator ? : and if === .endsWith('!') return string.slice(0,-1) to return entire string but last character
-let string = "!Hi!";
+// function remove(string){
+    
+// }
 
-function remove(string){
-    return string.endsWith('!') ? string.slice(0,-1) : string;
-}
-
-console.log(remove(string));// !Hi
+// console.log(remove(string));// !Hi
 
 
 
