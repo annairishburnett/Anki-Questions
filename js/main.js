@@ -224,7 +224,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-   
+  
 // }
 
 // console.log(shuffle(arr));
@@ -2416,7 +2416,7 @@
 // let array = [0,2,3,6,9];
 
 // function multipleOfIndex(arr){
- 
+   
 // }
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
 
@@ -2694,7 +2694,7 @@
 // let string = "abcd";
 
 // function accum(s){
-    
+   
 // }
 
 // console.log(accum(string))// "A-Bb-Ccc-Dddd"
