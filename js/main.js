@@ -224,7 +224,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-	
+   
 // }
 
 // console.log(shuffle(arr));
@@ -1482,7 +1482,6 @@
 // const grow = 
 
 // console.log(grow(array)); //24
-
 
 
 
@@ -3151,7 +3150,7 @@
 
 
 // function Calculator(){
- 
+   
 
 // }
 
@@ -3327,7 +3326,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-    
+   
 
 // }
 
