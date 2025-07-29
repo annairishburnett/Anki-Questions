@@ -3742,3 +3742,11 @@
 
 
 
+
+// let string = 'This looks5 grea8t!';
+
+// function stringClean(s){
+    
+// }
+
+// console.log(stringCleaning(string)); //This looks great!
