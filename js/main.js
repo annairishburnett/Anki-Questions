@@ -140,7 +140,9 @@
 
 // let users = [john, pete, mary];
 
-// let usersMapped = 
+// let usersMapped = users.map(user => ({
+    
+// }));
 
 // console.log(usersMapped[0].id); // 1
 // console.log(usersMapped[0].fullName); // John Smith
@@ -1458,7 +1460,7 @@
 // let nums = [1,2,3,4,5,6];
 
 // function findAverage(array) {
-
+   
 // }
 
 // console.log(findAverage(nums)) // 3.5
@@ -2453,7 +2455,7 @@
 // let string = 'ttt';
 
 // function getCount(str){
-   
+  
 // }
 
 // console.log(getCount(string));// 0
@@ -3717,6 +3719,25 @@
 // }
 
 // console.log(sayHello(['Piyanart', 'Promsawad'], 'Marquette', 'Michigan')); // Hello, Piyanart Promsawad! Welcome to Marquette, Michigan!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
