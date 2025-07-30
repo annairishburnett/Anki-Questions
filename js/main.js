@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-  
+   
 // }
 
 // console.log(shuffle(arr));
@@ -456,7 +456,7 @@
 // let string = "!Hi!";
 
 // function remove(string){
-    
+ 
 // }
 
 // console.log(remove(string));// !Hi
@@ -3414,7 +3414,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-    
+   
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3628,7 +3628,7 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-    
+  
   
 // }
 
@@ -3745,8 +3745,8 @@
 
 // let string = 'This looks5 grea8t!';
 
-// function stringClean(s){
-    
+// function stringCleaning(s){
+   
 // }
 
 // console.log(stringCleaning(string)); //This looks great!
