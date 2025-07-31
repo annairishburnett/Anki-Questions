@@ -1878,7 +1878,7 @@
 // let arr2 = [1, 2, 3, 4, 5, 10, 12];
 
 // function mergArrays(arr1,arr2){
-    
+ 
 // }
 
 // console.log(mergArrays(arr1, arr2)); //[1, 2, 3, 4, 5, 7, 9, 10, 11, 12]
@@ -1904,7 +1904,7 @@
 
 
 // function nMultiplesOfX(x, n){
-   
+  
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -2367,7 +2367,6 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-   
 
 // }
 
@@ -2930,7 +2929,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-
+   
 
 // }
 
