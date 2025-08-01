@@ -2712,7 +2712,6 @@
 
 
 
-//The second part of the .replace() method with the recursive function(c) is still a bit confusing - review how it works in the notes for the answer in the anki card
 
 
 // let dnaSample = "ATTGC";
@@ -3627,7 +3626,7 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-  
+   
   
 // }
 
