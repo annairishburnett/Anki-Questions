@@ -1668,7 +1668,7 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-  
+   
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -2045,7 +2045,7 @@
 // };
 
 // function listToArray(list){
-    
+  
 // }
 
 // console.log(listToArray(list1));
@@ -2244,7 +2244,7 @@
 
 
 // function deepEqual(a, b){
-  
+   
 // }
  
  
@@ -2796,7 +2796,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-    
+   
 // }
 
 // console.log(maskify(string));//##ippy
@@ -3766,32 +3766,32 @@
 
 
 
-//2nd ITERATION
-function dollarCents(num){
-    const arr = num.toString().split('.');
+// //2nd ITERATION
+// function dollarCents(num){
+//     const arr = num.toString().split('.');
 
-    return arr.length === 1 ? `$${arr}.00` : `$${arr.join('')}00`.trim(2);
-}
-//still need to add the period because when you split the string using the period it deletes it
+//     return arr.length === 1 ? `$${arr}.00` : `$${arr.join('')}00`.trim(2);
+// }
+// //still need to add the period because when you split the string using the period it deletes it
 
-//3rd ITERATION
-function dollarCents(num){
-    const arr = num.toString().split('.');
+// //3rd ITERATION
+// function dollarCents(num){
+//     const arr = num.toString().split('.');
 
-    return arr.length === 1 ? `$${arr}.00` : `$${arr.join('.')}00`.trim(2);
-}
-//using .trim(2) at the end of a template literal doesn't work
-//try creating a Number() and then triming and and then converting it to a string
-//no, create an array and a split array as consts
-//it's not trim I want, it's .toFixed(2), oops! (facepalm)
+//     return arr.length === 1 ? `$${arr}.00` : `$${arr.join('.')}00`.trim(2);
+// }
+// //using .trim(2) at the end of a template literal doesn't work
+// //try creating a Number() and then triming and and then converting it to a string
+// //no, create an array and a split array as consts
+// //it's not trim I want, it's .toFixed(2), oops! (facepalm)
 
-//4th ITERATION
-let input = 30.1;
+// //4th ITERATION
+// let input = 30.1;
 
-function dollarCents(num){
-    const arr = num.toString().split('.');
+// function dollarCents(num){
+//     const arr = num.toString().split('.');
 
-    return arr.length === 1 ? `$${arr}.00` : num.toString().padEnd(2,0).toFixed(2);
-}
+//     return arr.length === 1 ? `$${arr}.00` : num.toString().padEnd(2,0).toFixed(2);
+// }
 
-console.log(dollarCents(input));
+// console.log(dollarCents(input));
