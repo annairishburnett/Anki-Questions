@@ -961,7 +961,7 @@
 
 // let string = '4927173';
 
-// const convertTo1sAnd0s = 
+// const convertTo1sAnd0s =
 
 // console.log(convertTo1sAnd0s(string)); // 0101010
 
@@ -1817,7 +1817,7 @@
 // function gooseFilter(birds) {
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
 
-   
+  
     
 // }
 
@@ -2083,7 +2083,7 @@
 // let string = 'Hello World';
 
 // function repeatChar(str){
-   
+  
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -2226,7 +2226,7 @@
 // };
   
 // function nth(num, list){
-    
+  
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2540,7 +2540,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
+  
    
 // }
 
@@ -3117,7 +3117,7 @@
 // let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
 
 // function removeDuplicateWords(s){
- 
+    
 // }
 
 // console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
@@ -3150,7 +3150,7 @@
 
 
 // function Calculator(){
-   
+
 
 // }
 
@@ -3491,14 +3491,14 @@
 
 
 
-// let string = "aa1bBcde1";
+let string = "aa1bBcde1";
 
-// function duplicateCount(text) {
-   
+function duplicateCount(text) {
+   return text.toLowerCase().split('').sort().join('').match(/([^])\1+/g).length;
 
-// }
+}
 
-// console.log(duplicateCount(string));// 3
+console.log(duplicateCount(string));// 3
 
 
 
@@ -3713,7 +3713,7 @@
 
 
 // function sayHello(name, city, state){
-    
+ 
 // }
 
 // console.log(sayHello(['Piyanart', 'Promsawad'], 'Marquette', 'Michigan')); // Hello, Piyanart Promsawad! Welcome to Marquette, Michigan!
