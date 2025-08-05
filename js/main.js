@@ -2540,7 +2540,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-  
+    
    
 // }
 
@@ -2583,7 +2583,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-    
+   
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2659,7 +2659,9 @@
 
 // let string = "How can mirrors be real if our eyes aren't real";
 
-
+// String.prototype.toJadenCase = function(){
+    
+// }
 
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
 
@@ -2796,7 +2798,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-   
+  
 // }
 
 // console.log(maskify(string));//##ippy
@@ -3491,14 +3493,14 @@
 
 
 
-let string = "aa1bBcde1";
+// let string = "aa1bBcde1";
 
-function duplicateCount(text) {
-   return text.toLowerCase().split('').sort().join('').match(/([^])\1+/g).length;
+// function duplicateCount(text) {
+   
 
-}
+// }
 
-console.log(duplicateCount(string));// 3
+// console.log(duplicateCount(string));// 3
 
 
 
@@ -3595,7 +3597,7 @@ console.log(duplicateCount(string));// 3
       
       
 // function multiplyNumeric(obj){
-  
+    
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
@@ -3626,7 +3628,7 @@ console.log(duplicateCount(string));// 3
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-   
+  
   
 // }
 
