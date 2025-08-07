@@ -240,6 +240,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 // let john = { name: "John", age: 25 };
 // let pete = { name: "Pete", age: 30 };
 // let mary = { name: "Mary", age: 28 };
@@ -2540,7 +2549,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-    
+   
    
 // }
 
@@ -2930,7 +2939,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-   
+  
 
 // }
 
@@ -3214,7 +3223,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-    
+   
 // }
 
 // console.log(filterString(string)); // 11330
