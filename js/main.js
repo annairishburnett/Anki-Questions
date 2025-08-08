@@ -317,7 +317,7 @@
 // ];
 
 // function groupById(array){
-  
+    
 // }
 
 // let usersById = groupById(users);
@@ -3223,7 +3223,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-   
+    
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3780,7 +3780,7 @@
 // let money = 30.1;
 
 // function formatMoney(amount){
-   
+    
 // }
 
 // console.log(formatMoney(money)); //$30.10
