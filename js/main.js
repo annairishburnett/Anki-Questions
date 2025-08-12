@@ -1913,7 +1913,7 @@
 
 
 // function nMultiplesOfX(x, n){
-  
+   
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -2004,7 +2004,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-    
+
 // }
 
 // console.log(arrayToList(array));
@@ -2463,7 +2463,7 @@
 // let string = 'ttt';
 
 // function getCount(str){
-  
+    
 // }
 
 // console.log(getCount(string));// 0
@@ -2807,7 +2807,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-  
+   
 // }
 
 // console.log(maskify(string));//##ippy
@@ -3251,9 +3251,7 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-//     const war = { w: -4, p: -3, b: -2, s: -1, m: 4, q: 3, d: 2, z: 1};
     
-	
 
 // };
 
