@@ -1674,13 +1674,13 @@
 
 
 
-// let arr = [1,2,3,4,6,7,8];
+let arr = [1,2,3,4,6,7,8];
 
-// function firstNonConsecutive(arr){
+function firstNonConsecutive(arr){
    
-// }
+}
 
-// console.log(firstNonConsecutive(arr)); //6
+console.log(firstNonConsecutive(arr)); //6
 
 
 
