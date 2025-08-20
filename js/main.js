@@ -710,7 +710,7 @@
 // const rapperArray = ["Lil' Kim", "Jay-Z", "Notorious B.I.G.", "Tupac"];
 
 // for(let i = 0; i < rapperArray.length; i++){
- 
+    
  
   
 // }
@@ -756,7 +756,7 @@
 
 
 // function absVal100Minus5Nums(n1,n2,n3,n4,n5){
-   
+ 
 // }
 
 // absVal100Minus5Nums(20,30,40,50,20); // 60
@@ -1657,7 +1657,7 @@
 
 
 
-// console.log(letsDance);
+// console.log(letsDance);// ["Let's", 'dance', 'right', 'now']
 
 
 
@@ -1672,15 +1672,13 @@
 
 
 
+// let arr = [1,2,3,4,6,7,8];
 
+// function firstNonConsecutive(arr){
+  
+// }
 
-let arr = [1,2,3,4,6,7,8];
-
-function firstNonConsecutive(arr){
-   
-}
-
-console.log(firstNonConsecutive(arr)); //6
+// console.log(firstNonConsecutive(arr)); //6
 
 
 
@@ -1826,7 +1824,7 @@ console.log(firstNonConsecutive(arr)); //6
 // function gooseFilter(birds) {
 //     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
 
-  
+   
     
 // }
 
@@ -2004,7 +2002,7 @@ console.log(firstNonConsecutive(arr)); //6
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-
+   
 // }
 
 // console.log(arrayToList(array));
@@ -2054,7 +2052,7 @@ console.log(firstNonConsecutive(arr)); //6
 // };
 
 // function listToArray(list){
-  
+   
 // }
 
 // console.log(listToArray(list1));
@@ -2549,7 +2547,7 @@ console.log(firstNonConsecutive(arr)); //6
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
+  
    
 // }
 
@@ -2920,7 +2918,7 @@ console.log(firstNonConsecutive(arr)); //6
 // // let url = "www.codewars.com/katas/";
 
 // function removeURLAnchor(url){
-//   return url.split('#')[0];
+    
 // }
 
 // console.log(removeURLAnchor(url)); // "www.codewars.com" OR "www.codewars.com/katas/"
@@ -2939,7 +2937,6 @@ console.log(firstNonConsecutive(arr)); //6
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-  
 
 // }
 
@@ -3087,7 +3084,6 @@ console.log(firstNonConsecutive(arr)); //6
 
 
 
-
 // const repeatStr = 
 
 // console.log(repeatStr(2, 'hello')); // hellohello
@@ -3161,7 +3157,7 @@ console.log(firstNonConsecutive(arr)); //6
 
 
 // function Calculator(){
-
+   
 
 // }
 
@@ -3335,7 +3331,7 @@ console.log(firstNonConsecutive(arr)); //6
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-   
+    
 
 // }
 
@@ -3629,9 +3625,6 @@ console.log(firstNonConsecutive(arr)); //6
 
 
 
-
-
-
 // let string = "rEcede";
 
 // function duplicateEncode(word){
@@ -3778,7 +3771,7 @@ console.log(firstNonConsecutive(arr)); //6
 // let money = 30.1;
 
 // function formatMoney(amount){
-    
+   
 // }
 
 // console.log(formatMoney(money)); //$30.10
