@@ -76,11 +76,9 @@
 
 // let arr = [5,3,8,1];
 
-// const filterRangeInPlace = (arr, a, b) => {
-    
-// }
+// const filterRangeInPlace = 
 
-// filterRangeInPlace(arr, 1,4);
+// filterRangeInPlace(arr, 1, 4);
 
 // console.log(arr); // [3,1]
 
