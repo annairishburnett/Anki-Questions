@@ -224,7 +224,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
- 
+   
 // }
 
 // console.log(shuffle(arr));
@@ -463,7 +463,7 @@
 // let string = "!Hi!";
 
 // function remove(string){
- 
+    
 // }
 
 // console.log(remove(string));// !Hi
@@ -3527,7 +3527,7 @@
 // let schedule = {};
 
 // function isEmpty(obj){
-   
+  
 // }
 
 
@@ -3713,7 +3713,7 @@
 
 
 // function sayHello(name, city, state){
- 
+    
 // }
 
 // console.log(sayHello(['Piyanart', 'Promsawad'], 'Marquette', 'Michigan')); // Hello, Piyanart Promsawad! Welcome to Marquette, Michigan!
