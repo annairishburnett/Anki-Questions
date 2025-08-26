@@ -76,7 +76,9 @@
 
 // let arr = [5,3,8,1];
 
-// const filterRangeInPlace = 
+// const filterRangeInPlace = (arr, a, b) => {
+   
+// }
 
 // filterRangeInPlace(arr, 1, 4);
 
@@ -573,9 +575,15 @@
 
 
 
+
+
+
 // const bonusTime = 
 
 // console.log(bonusTime(100000, true)); // £1000000
+
+
+
 
 
 
@@ -788,13 +796,13 @@
 
 
 
-// let string = '-anna-banana';
+let string = '-anna-banana';
 
-// function camelize(str){
+function camelize(str){
   
-// }
+}
 
-// console.log(camelize(string)); // annaBanana
+console.log(camelize(string)); // annaBanana
 
 
 
@@ -1530,7 +1538,7 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
-   
+ 
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1673,7 +1681,7 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-  
+    
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -2231,7 +2239,7 @@
 // };
   
 // function nth(num, list){
-  
+   
 // }
   
 // console.log(nth(1, list)); // 3
@@ -2569,7 +2577,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-    
+   
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2588,7 +2596,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-   
+  
 // }
 
 // console.log(isIsogram(string)); // true
@@ -2935,7 +2943,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-
+ 
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -3561,7 +3569,7 @@
 // }
          
 // function calcSum(salaries){
-   
+ 
 // }
 
 // console.log(calcSum(salaries));//390
@@ -3626,7 +3634,7 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-  
+   
   
 // }
 
