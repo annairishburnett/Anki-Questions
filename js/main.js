@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-   
+  
 // }
 
 // console.log(shuffle(arr));
@@ -317,7 +317,7 @@
 // ];
 
 // function groupById(array){
-    
+  
 // }
 
 // let usersById = groupById(users);
@@ -796,13 +796,13 @@
 
 
 
-let string = '-anna-banana';
+// let string = '-anna-banana';
 
-function camelize(str){
-  
-}
+// function camelize(str){
+    
+// }
 
-console.log(camelize(string)); // annaBanana
+// console.log(camelize(string)); // annaBanana
 
 
 
@@ -1869,7 +1869,7 @@ console.log(camelize(string)); // annaBanana
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-    
+   
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1917,7 +1917,7 @@ console.log(camelize(string)); // annaBanana
 
 
 // function nMultiplesOfX(x, n){
-   
+ 
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -2008,7 +2008,7 @@ console.log(camelize(string)); // annaBanana
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+ 
 // }
 
 // console.log(arrayToList(array));
@@ -2432,6 +2432,7 @@ console.log(camelize(string)); // annaBanana
 // function multipleOfIndex(arr){
    
 // }
+
 // console.log(multipleOfIndex(array)); // [0, 2, 6]
 
 
@@ -3204,7 +3205,7 @@ console.log(camelize(string)); // annaBanana
 // const string = "nnn_n__n_n___nnnnn___n__nnn__";
 
 // function bump(x){
-   
+  
 // }
 
 // console.log(bump(string)); // Woohoo!
@@ -3606,7 +3607,7 @@ console.log(camelize(string)); // annaBanana
       
       
 // function multiplyNumeric(obj){
-    
+  
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
