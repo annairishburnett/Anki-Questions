@@ -317,7 +317,7 @@
 // ];
 
 // function groupById(array){
-  
+    
 // }
 
 // let usersById = groupById(users);
@@ -796,13 +796,19 @@
 
 
 
-// let string = '-anna-banana';
+let string = '-anna-banana';
 
-// function camelize(str){
-    
-// }
+function camelize(str){
+    let result = str.split('-')
+                    .map((word, index) => {
+                        return index === 0 ? word : word.charAt(0).toUpperCase() + word.slice(1);
+                    })
+                    .join('');
 
-// console.log(camelize(string)); // annaBanana
+    return result.charAt(0).toLowerCase() + result.slice(1);
+}
+
+console.log(camelize(string)); // annaBanana
 
 
 
@@ -1885,13 +1891,11 @@
 
 
 
-
-
 // let arr1 = [1, 3, 5, 7, 9, 11, 12];
 // let arr2 = [1, 2, 3, 4, 5, 10, 12];
 
 // function mergArrays(arr1,arr2){
- 
+   
 // }
 
 // console.log(mergArrays(arr1, arr2)); //[1, 2, 3, 4, 5, 7, 9, 10, 11, 12]
@@ -2008,7 +2012,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
- 
+   
 // }
 
 // console.log(arrayToList(array));
@@ -2597,7 +2601,7 @@
 // let string = 'Dermatoglyphics';
 
 // function isIsogram(str) {
-  
+    
 // }
 
 // console.log(isIsogram(string)); // true
