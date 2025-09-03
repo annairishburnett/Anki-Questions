@@ -77,7 +77,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-   
+  
 // }
 
 // filterRangeInPlace(arr, 1, 4);
@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-  
+    
 // }
 
 // console.log(shuffle(arr));
@@ -796,19 +796,13 @@
 
 
 
-let string = '-anna-banana';
+// let string = '-anna-banana';
 
-function camelize(str){
-    let result = str.split('-')
-                    .map((word, index) => {
-                        return index === 0 ? word : word.charAt(0).toUpperCase() + word.slice(1);
-                    })
-                    .join('');
+// function camelize(str){
+   
+// }
 
-    return result.charAt(0).toLowerCase() + result.slice(1);
-}
-
-console.log(camelize(string)); // annaBanana
+// console.log(camelize(string)); // annaBanana
 
 
 
@@ -1517,8 +1511,6 @@ console.log(camelize(string)); // annaBanana
 
 
 
-
-
 // //COPY AND PASTE THIS
 // function Circle(radius){
 //     this.radius = radius;
@@ -1687,7 +1679,7 @@ console.log(camelize(string)); // annaBanana
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-    
+   
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -2262,7 +2254,7 @@ console.log(camelize(string)); // annaBanana
 
 // function deepEqual(a, b){
    
-// }
+//  }
  
  
 // let obj = {here: {is: "an"}, object: 2};
@@ -2359,9 +2351,7 @@ console.log(camelize(string)); // annaBanana
 
 
 // function followingSecond(){
-   
-
-    
+  
 
 // }
 
@@ -2526,6 +2516,7 @@ console.log(camelize(string)); // annaBanana
 
 
 
+
 //Copy and paste section below, don't edit
 // fetch("https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita")
 //     .then(res => res.json()) // parse response as JSON
@@ -2558,7 +2549,7 @@ console.log(camelize(string)); // annaBanana
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-  
+    
    
 // }
 
@@ -2757,7 +2748,7 @@ console.log(camelize(string)); // annaBanana
 
 
 
-//add "Enter" functionality
+// add "Enter" functionality
 // document.querySelector('#getCocktail').addEventListener('click', getDrink);
 
 
@@ -3639,7 +3630,7 @@ console.log(camelize(string)); // annaBanana
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-   
+  
   
 // }
 
