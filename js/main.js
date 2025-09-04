@@ -699,7 +699,7 @@
 
 // let array = ['there', 'Hello', 'my', 'friend'];
 
-
+// const stars = 
 
 // console.log(stars(array)); //H***e***l***l***o
 
@@ -2001,10 +2001,12 @@
 
 
 
+
+
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+ 
 // }
 
 // console.log(arrayToList(array));
@@ -2092,7 +2094,7 @@
 // let string = 'Hello World';
 
 // function repeatChar(str){
-  
+
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -2254,7 +2256,7 @@
 
 // function deepEqual(a, b){
    
-//  }
+// }
  
  
 // let obj = {here: {is: "an"}, object: 2};
@@ -2318,7 +2320,7 @@
 // function followingDay(){
 //     let day = prompt('Enter a day to get the following day:').toLowerCase();
 
-   
+  
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -2374,7 +2376,7 @@
 // let string = "A1,B2,C3,D4";
 
 // function removeFirstAndLast(str){
-
+    
 // }
 
 // console.log(removeFirstAndLast(string)); //B2 C3
@@ -2939,7 +2941,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
- 
+    
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -3419,7 +3421,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-   
+    
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3773,7 +3775,7 @@
 // let money = 30.1;
 
 // function formatMoney(amount){
-   
+    
 // }
 
 // console.log(formatMoney(money)); //$30.10
