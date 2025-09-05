@@ -2006,7 +2006,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
- 
+  
 // }
 
 // console.log(arrayToList(array));
@@ -2017,6 +2017,18 @@
 
 
 
+
+
+
+
+
+//Improve the program
+//COPY AND PASTE
+// for(let i = 1; i <= 10; i++){
+//     if(i % 2 === 0){
+//         console.log(`${i} is even`)
+//     }
+// }
 
 
 
