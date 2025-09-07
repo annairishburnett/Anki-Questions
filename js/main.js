@@ -799,7 +799,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-   
+  
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -2106,7 +2106,7 @@
 // let string = 'Hello World';
 
 // function repeatChar(str){
-
+   
 // }
 
 // console.log(repeatChar(string)); // HHeelllloo  WWoorrlldd
@@ -2267,7 +2267,7 @@
 
 
 // function deepEqual(a, b){
-   
+ 
 // }
  
  
@@ -2332,7 +2332,7 @@
 // function followingDay(){
 //     let day = prompt('Enter a day to get the following day:').toLowerCase();
 
-  
+    
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -3347,7 +3347,7 @@
 // let string = "aabacbaa";
 
 // function switcheroo(x){
-    
+   
 
 // }
 
@@ -3433,7 +3433,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-    
+   
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3515,7 +3515,7 @@
 // let string = "aa1bBcde1";
 
 // function duplicateCount(text) {
-   
+  
 
 // }
 
