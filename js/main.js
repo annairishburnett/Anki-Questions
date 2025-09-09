@@ -77,7 +77,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-  
+    
 // }
 
 // filterRangeInPlace(arr, 1, 4);
@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-    
+   
 // }
 
 // console.log(shuffle(arr));
@@ -2068,7 +2068,7 @@
 // };
 
 // function listToArray(list){
-   
+ 
 // }
 
 // console.log(listToArray(list1));
