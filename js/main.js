@@ -1804,7 +1804,7 @@
 
 
 // function findMultiples(integer, limit){
-  
+   
 // }
 
 // console.log(findMultiples(2,6)); // [2, 4, 6]
@@ -2267,7 +2267,7 @@
 
 
 // function deepEqual(a, b){
- 
+    
 // }
  
  
