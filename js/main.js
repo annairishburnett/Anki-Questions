@@ -799,7 +799,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-  
+   
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -1867,7 +1867,7 @@
 // let arrayValue = [1, 2, 3, 4, 5];
 
 // function reverseArrayInPlace(arr) {
-   
+  
 // }
 
 // console.log(reverseArrayInPlace(arrayValue)); // → [5, 4, 3, 2, 1]
@@ -1959,7 +1959,7 @@
 
 
 // function fizzBuzz(){
-
+ 
 // }
 
 // fizzBuzz();
@@ -2006,7 +2006,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-  
+   
 // }
 
 // console.log(arrayToList(array));
@@ -3140,7 +3140,7 @@
 // let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
 
 // function removeDuplicateWords(s){
-    
+  
 // }
 
 // console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
