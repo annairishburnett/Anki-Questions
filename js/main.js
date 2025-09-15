@@ -2006,7 +2006,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+  
 // }
 
 // console.log(arrayToList(array));
@@ -2953,7 +2953,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-    
+  
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
