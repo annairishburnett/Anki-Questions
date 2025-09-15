@@ -1826,8 +1826,6 @@
 // let birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 // function gooseFilter(birds) {
-//     const geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
-
    
     
 // }
@@ -1913,7 +1911,7 @@
 
 
 // function nMultiplesOfX(x, n){
- 
+    
 // }
 
 // console.log(nMultiplesOfX(2,5)); // [2,4,6,8,10]
@@ -1958,11 +1956,7 @@
 
 
 
-// function fizzBuzz(){
- 
-// }
 
-// fizzBuzz();
 
 
 
@@ -2332,7 +2326,7 @@
 // function followingDay(){
 //     let day = prompt('Enter a day to get the following day:').toLowerCase();
 
-    
+   
 
 //     if(day === 'monday'){
 //         alert('Tuesday');
@@ -3263,7 +3257,7 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-    
+   
 
 // };
 
@@ -3644,7 +3638,7 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-
+   
   
 // }
 
