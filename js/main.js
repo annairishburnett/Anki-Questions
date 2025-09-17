@@ -226,7 +226,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-   
+  
 // }
 
 // console.log(shuffle(arr));
@@ -549,6 +549,9 @@
 
 
 // console.log(removeChar(string));
+
+
+
 
 
 
@@ -2761,6 +2764,7 @@
 
 
 
+
 // function getDrink(){
 
 //     const drink = document.querySelector('input').value;
@@ -3785,3 +3789,22 @@
 // }
 
 // console.log(formatMoney(money)); //$30.10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
