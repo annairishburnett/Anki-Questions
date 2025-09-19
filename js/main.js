@@ -3809,6 +3809,7 @@
 
 // function contamination(str, char){
     
+
 // }
 
 // console.log(contamination("abc", "z")) //"zzz"
