@@ -77,7 +77,8 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
-    
+   
+
 // }
 
 // filterRangeInPlace(arr, 1, 4);
@@ -317,7 +318,7 @@
 // ];
 
 // function groupById(array){
-    
+   
 // }
 
 // let usersById = groupById(users);
@@ -1682,7 +1683,7 @@
 // let arr = [1,2,3,4,6,7,8];
 
 // function firstNonConsecutive(arr){
-  
+    
 // }
 
 // console.log(firstNonConsecutive(arr)); //6
@@ -2003,7 +2004,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-  
+   
 // }
 
 // console.log(arrayToList(array));
@@ -2560,7 +2561,7 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-    
+   
    
 // }
 
@@ -2761,7 +2762,6 @@
 
 // add "Enter" functionality
 // document.querySelector('#getCocktail').addEventListener('click', getDrink);
-
 
 
 
@@ -3171,7 +3171,7 @@
 
 
 // function Calculator(){
-   
+  
 
 // }
 
@@ -3233,7 +3233,7 @@
 // const string = "He11o th3r3 y0u!";
 
 // function filterString(value){
-    
+   
 // }
 
 // console.log(filterString(string)); // 11330
@@ -3431,7 +3431,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-   
+  
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
@@ -3760,7 +3760,7 @@
 // let string = 'This looks5 grea8t!';
 
 // function stringCleaning(s){
-   
+  
 // }
 
 // console.log(stringCleaning(string)); //This looks great!
