@@ -803,7 +803,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-   
+
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -2265,7 +2265,7 @@
 
 
 // function deepEqual(a, b){
-    
+   
 // }
  
  
