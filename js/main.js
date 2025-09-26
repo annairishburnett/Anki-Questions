@@ -1026,6 +1026,7 @@
 
 // const sumSecondHighAndLow = arr => {
    
+    
 // }
 
 // console.log(sumSecondHighAndLow(nums)); // 10
