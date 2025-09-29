@@ -77,7 +77,7 @@
 // let arr = [5,3,8,1];
 
 // const filterRangeInPlace = (arr, a, b) => {
- 
+    
 
 // }
 
@@ -222,12 +222,12 @@
 
 
 
-
+ 
 
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-  
+    
 // }
 
 // console.log(shuffle(arr));
@@ -1026,7 +1026,7 @@
 
 // const sumSecondHighAndLow = arr => {
    
-    
+
 // }
 
 // console.log(sumSecondHighAndLow(nums)); // 10
@@ -2622,7 +2622,7 @@
 
 
 // function isEven(num){
- 
+    
 // }
   
   
@@ -2952,7 +2952,7 @@
 // let string = "CodEWaRs";
 
 // function capitals(word) {
-  
+    
 // }
 
 // console.log(capitals(string)); // [0,3,4,6]
@@ -2972,12 +2972,10 @@
 
 
 
-
 // let string = "abcdef"; 
 
 // function capitalize(s){
-    
-
+   
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
