@@ -2683,6 +2683,7 @@
 
 // String.prototype.toJadenCase = function(){
     
+
 // }
 
 // console.log(string.toJadenCase());//"How Can Mirrors Be Real If Our Eyes Aren't Real"
