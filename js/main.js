@@ -2067,7 +2067,7 @@
 // };
 
 // function listToArray(list){
- 
+    
 // }
 
 // console.log(listToArray(list1));
@@ -2253,7 +2253,7 @@
   
 // console.log(nth(1, list)); // 3
 
-
+ 
 
 
 
@@ -3808,7 +3808,7 @@
 
 
 // function contamination(str, char){
-
+    
 // }
 
 // console.log(contamination("abc", "z")) //"zzz"
