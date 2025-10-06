@@ -1078,7 +1078,7 @@
 
 
 // function sheepMurmur(num){
-  
+    
 // }
 
 // console.log(sheepMurmur(3));
@@ -3171,7 +3171,7 @@
 
 
 // function Calculator(){
-  
+    
 
 // }
 
@@ -3612,7 +3612,7 @@
       
       
 // function multiplyNumeric(obj){
-  
+ 
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
