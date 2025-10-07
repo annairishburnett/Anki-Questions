@@ -311,6 +311,8 @@
 
 
 
+
+
 // let users = [
 //   {id: 'john', name: "John Smith", age: 20 },
 //   {id: 'ann', name: "Ann Smith", age: 24 },
@@ -318,7 +320,7 @@
 // ];
 
 // function groupById(array){
-   
+  
 // }
 
 // let usersById = groupById(users);
@@ -3138,7 +3140,7 @@
 // let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
 
 // function removeDuplicateWords(s){
-  
+    
 // }
 
 // console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
@@ -3810,3 +3812,56 @@
 // }
 
 // console.log(contamination("abc", "z")) //"zzz"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// document.addEventListener("DOMContentLoaded", function () {
+//   let imgMoved = false;
+
+//   function moveImageIfWideEnough() {
+//     const isWide = window.innerWidth >= 1025;
+
+//     if (isWide && !imgMoved) {
+//       const imgContainer = document.querySelector("#metal-price");
+//       const img = imgContainer ? imgContainer.querySelector("img") : null;
+
+//       if (img) {
+//         // Move the image to body
+//         document.body.appendChild(img);
+
+//         // Style it
+//         img.style.position = "absolute";
+//         img.style.top = "170px";
+//         img.style.right = "35px";
+
+//         imgMoved = true;
+//         console.log("✅ Image moved to body.");
+//       } else if (!imgMoved) {
+//         // Try again in case the image isn't yet loaded
+//         setTimeout(moveImageIfWideEnough, 100); // Retry after a short delay
+//       }
+//     }
+//   }
+
+//   // Run on load
+//   moveImageIfWideEnough();
+
+//   // Run on resize, but only if not yet moved
+//   window.addEventListener("resize", function () {
+//     if (!imgMoved) {
+//       moveImageIfWideEnough();
+//     }
+//   });
+// });
