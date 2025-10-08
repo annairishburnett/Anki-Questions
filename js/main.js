@@ -3614,7 +3614,8 @@
       
       
 // function multiplyNumeric(obj){
- 
+   
+
 // }
 
 // multiplyNumeric(menu);//returns nothing, check menu obj in console
@@ -3729,7 +3730,7 @@
 
 
 // function sayHello(name, city, state){
-    
+   
 // }
 
 // console.log(sayHello(['Piyanart', 'Promsawad'], 'Marquette', 'Michigan')); // Hello, Piyanart Promsawad! Welcome to Marquette, Michigan!
