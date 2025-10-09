@@ -2251,6 +2251,7 @@
   
 // function nth(num, list){
    
+
 // }
   
 // console.log(nth(1, list)); // 3
