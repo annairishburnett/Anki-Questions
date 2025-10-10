@@ -227,7 +227,7 @@
 // let arr = [1,2,3,4];
 
 // const shuffle = arr => {
-    
+   
 // }
 
 // console.log(shuffle(arr));
@@ -1429,7 +1429,7 @@
 
 // const findNeedle = 
 
-// console.log(findNeedle(junk));
+// console.log(findNeedle(junk)); //Found the needle at position 5
 
 
 
@@ -2250,7 +2250,7 @@
 // };
   
 // function nth(num, list){
-   
+  
 
 // }
   
@@ -2589,7 +2589,7 @@
 // let string = 'mid';
 
 // function getMiddleChar(str){
-    
+   
 // }
 
 // console.log(getMiddleChar(string)); // "i"
@@ -2801,8 +2801,6 @@
 
 
 
-
-
 // function yesOrNo(){
       
 // }
@@ -2915,7 +2913,7 @@
 // let str2 = "DeathCubeK";
 
 // function isAnagram(test, original){
- 
+//    return 
 // }
 
 // console.log(isAnagram(str1, str2)); // true
@@ -3615,7 +3613,7 @@
       
       
 // function multiplyNumeric(obj){
-   
+
 
 // }
 
