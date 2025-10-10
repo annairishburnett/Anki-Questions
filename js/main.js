@@ -2003,7 +2003,7 @@
 
 
 
-
+// //Study more in-depth how this works, I don't understand it so I keep doing it wrong
 
 // let array = [1,2,3];
 
