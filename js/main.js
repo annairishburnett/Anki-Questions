@@ -643,11 +643,11 @@
 
 
 
-const groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+// const groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
 
-let friendsList = groceryList.slice(1,4);
+// let friendsList = 
 
-console.log(friendsList); //['bananas', 'coffee beans', 'brown rice']
+// console.log(friendsList); //['bananas', 'coffee beans', 'brown rice']
 
 
 
