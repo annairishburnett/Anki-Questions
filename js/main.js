@@ -805,7 +805,7 @@
 // let string = '-anna-banana';
 
 // function camelize(str){
-   
+  
 // }
 
 // console.log(camelize(string)); // annaBanana
@@ -2003,7 +2003,7 @@
 
 
 
-// //Study more in-depth how this works, I don't understand it so I keep doing it wrong
+//Study more in-depth how this works, I don't understand it so I keep doing it wrong
 
 // let array = [1,2,3];
 
@@ -3214,7 +3214,7 @@
 // const string = "nnn_n__n_n___nnnnn___n__nnn__";
 
 // function bump(x){
-  
+    
 // }
 
 // console.log(bump(string)); // Woohoo!
