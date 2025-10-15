@@ -1835,10 +1835,15 @@
 
 // function gooseFilter(birds) {
 //    let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
-    
+   
+   
 // }
 
 // console.log(gooseFilter(birds)); // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
+
+
+
+
 
 
 
@@ -2271,7 +2276,8 @@
 
 // function deepEqual(a, b){
    
-// }
+
+//  }
  
  
 // let obj = {here: {is: "an"}, object: 2};
@@ -2566,7 +2572,6 @@
 // let string = "1 2 3 4 5";
 
 // function highAndLow(numbers){
-   
    
 // }
 
@@ -2978,7 +2983,7 @@
 // let string = "abcdef"; 
 
 // function capitalize(s){
-   
+
 // }
 
 // console.log(capitalize(string)); //['AbCdEf', 'aBcDeF']
