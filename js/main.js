@@ -721,12 +721,10 @@
 
 // for(let i = 0; i < rapperArray.length; i++){
     
- 
   
 // }
 
 // console.log("And if you don't know, now you know.");
-
 
 
 
@@ -2254,7 +2252,7 @@
 // };
   
 // function nth(num, list){
-  
+    
 
 // }
   
@@ -3639,7 +3637,7 @@
       
       
 // function multiplyNumeric(obj){
-
+   
 
 // }
 
