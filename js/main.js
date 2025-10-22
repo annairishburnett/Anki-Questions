@@ -3908,7 +3908,8 @@
 // let array = [100, 100, 116, 105, 117, 121];
 
 // function isVowel(arr) {
- 
+   
+
 // }
 
 // console.log(isVowel(array)); // → [100, 100, 116, "i", "u", 121]
