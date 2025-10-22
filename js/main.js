@@ -2271,7 +2271,7 @@
 
 
 // function deepEqual(a, b){
-   
+  
 
 // }
  
@@ -3453,7 +3453,7 @@
 // let array = ["Evi", "Lea", "Anna", "Andre", "Ida"];
 
 // function likes(names) {
-   
+  
 // }
 
 // console.log(likes(array));// "Evi, Lea and 3 others like this"
