@@ -3904,6 +3904,7 @@
 //     117: 'u'
 // };
 
+
 // let array = [100, 100, 116, 105, 117, 121];
 
 // function findVowels(arr) {
