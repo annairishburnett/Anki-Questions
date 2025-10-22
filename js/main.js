@@ -3890,3 +3890,24 @@
 //     }
 //   });
 // });
+
+
+
+
+
+//COPY AND PASTE
+// const pairs = {
+//     97: 'a',
+//     101: 'e',
+//     105: 'i',
+//     111: 'o',
+//     117: 'u'
+// };
+
+// let array = [100, 100, 116, 105, 117, 121];
+
+// function findVowels(arr) {
+ 
+// }
+
+// console.log(findVowels(array)); // → [100, 100, 116, "i", "u", 121]
