@@ -3912,3 +3912,17 @@
 // }
 
 // console.log(isVowel(array)); // → [100, 100, 116, "i", "u", 121]
+
+
+
+
+//Look into how this works in more detail:
+// Explanation:
+
+// pairs maps vowel character codes to their corresponding lowercase letters.
+
+// arr.map() creates a new array (does not modify the original).
+
+// pairs[num] looks up whether a mapping exists.
+
+// If it does, we return the vowel string; if not, we return the original number.
