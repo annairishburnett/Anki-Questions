@@ -3927,3 +3927,32 @@
 // pairs[num] looks up whether a mapping exists.
 
 // If it does, we return the vowel string; if not, we return the original number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//COPY AND PASTE
+// '♣': 'clubs',
+// '♦': 'diamonds',
+// '♥': 'hearts',
+// '♠': 'spades',
+
+
+// let card = "3♣";
+
+// function defineSuit(card){
+   
+// }
+
+// console.log(defineSuit(card)); // 'clubs'
