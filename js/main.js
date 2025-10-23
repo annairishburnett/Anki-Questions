@@ -3952,7 +3952,14 @@
 // let card = "3♣";
 
 // function defineSuit(card){
-   
+//     const suits = {
+//         '♣': 'clubs',
+//         '♦': 'diamonds',
+//         '♥': 'hearts',
+//         '♠': 'spades',
+//     }
+    
+  
 // }
 
 // console.log(defineSuit(card)); // 'clubs'
