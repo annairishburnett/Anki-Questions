@@ -2843,7 +2843,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-   
+  
 // }
 
 // console.log(maskify(string));//##ippy
@@ -3283,7 +3283,7 @@
 // let string = 'z';
 
 // function alphabetWar(fight){
-   
+ 
 
 // };
 
@@ -3637,7 +3637,7 @@
       
       
 // function multiplyNumeric(obj){
-   
+  
 
 // }
 
@@ -3908,7 +3908,7 @@
 // let array = [100, 100, 116, 105, 117, 121];
 
 // function isVowel(arr) {
-   
+  
 
 // }
 
