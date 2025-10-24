@@ -3942,7 +3942,7 @@
 
 
 
-//COPY AND PASTE
+// COPY AND PASTE
 // '♣': 'clubs',
 // '♦': 'diamonds',
 // '♥': 'hearts',
@@ -3958,6 +3958,7 @@
 //         '♥': 'hearts',
 //         '♠': 'spades',
 //     }
+    
     
   
 // }
