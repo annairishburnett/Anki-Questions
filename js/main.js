@@ -2009,7 +2009,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
-   
+ 
 
 // }
 
@@ -2272,8 +2272,7 @@
 
 
 // function deepEqual(a, b){
-  
-
+   
 // }
  
  
@@ -2284,7 +2283,7 @@
 // console.log(deepEqual(obj, {here: {is: "an"}, object: 2})); // → true
 
 
-
+//Keep getting confused between for of and for in loops :-|
 
 
 
@@ -3194,7 +3193,7 @@
 
 
 // function Calculator(){
-    
+   
 
 // }
 
@@ -3910,6 +3909,14 @@
 // let array = [100, 100, 116, 105, 117, 121];
 
 // function isVowel(arr) {
+//     const pairs = {
+//         97: 'a',
+//         101: 'e',
+//         105: 'i',
+//         111: 'o',
+//         117: 'u'
+//     }; 
+
     
 
 // }
@@ -3961,7 +3968,6 @@
 //         '♠': 'spades',
 //     }
     
-   
   
 // }
 
