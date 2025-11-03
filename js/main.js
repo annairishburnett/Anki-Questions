@@ -2009,8 +2009,7 @@
 // let array = [1,2,3];
 
 // function arrayToList(arr){
- 
-
+   
 // }
 
 // console.log(arrayToList(array));
@@ -3593,17 +3592,22 @@
 
 //I get for in and for of loops confused... Look into the differences so I understand them
 
-// let salaries = {
-//     John: 100,
-//     Ann: 160,
-//     Pete: 130,
-// }
+let salaries = {
+    John: 100,
+    Ann: 160,
+    Pete: 130,
+}
          
-// function calcSum(salaries){
-   
-// }
+function calcSum(salaries){
+   let sum = 0;
 
-// console.log(calcSum(salaries));//390
+   for(let key in salaries){
+        sum += salaries[key];
+   }
+   return sum;
+}
+
+console.log(calcSum(salaries));//390
 
 
 
@@ -3667,7 +3671,7 @@
 // let string = "rEcede";
 
 // function duplicateEncode(word){
-  
+    
 
   
 // }
@@ -3967,6 +3971,7 @@
 //         '♥': 'hearts',
 //         '♠': 'spades',
 //     }
+    
     
   
 // }
