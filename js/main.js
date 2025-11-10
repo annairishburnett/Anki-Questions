@@ -2847,7 +2847,7 @@
 // let string = "Skippy";//ippy
 
 // function maskify(cc){
-  
+    
 // }
 
 // console.log(maskify(string));//##ippy
@@ -3164,7 +3164,7 @@
 // let string = 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta';
 
 // function removeDuplicateWords(s){
-    
+   
 // }
 
 // console.log(removeDuplicateWords(string)); // 'alpha beta gamma delta'
@@ -3641,7 +3641,7 @@
       
       
 // function multiplyNumeric(obj){
- 
+   
 
 // }
 
