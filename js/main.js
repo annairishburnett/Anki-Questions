@@ -1545,7 +1545,7 @@
 // let array = [1,2,3,4,5,6,7,8,9,10,-11,-12,-13,-14,-15];
 
 // function countPositivesSumNegatives(input){
- 
+   
 // }
 
 // console.log(countPositivesSumNegatives(array)); // [10, -65]
@@ -1946,7 +1946,7 @@
 
 // let array = [1, 2, 1, 1, 3, 2];
 
-// const distinct = 
+// const distinct =
 
 // console.log(distinct(array)); // [1, 2, 3]
 
@@ -3105,7 +3105,7 @@
 
 
 // function pow(x,n){
-  
+    
 // }
 
 // console.log(pow(3,2)); // 9
@@ -3920,7 +3920,7 @@
 //         117: 'u'
 //     }; 
 
-    
+   
 
 // }
 
@@ -3971,7 +3971,7 @@
 //         '♠': 'spades',
 //     }
     
-    
+   
   
 // }
 
