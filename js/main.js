@@ -1632,7 +1632,7 @@
 // let arr = ["Keep", "Remove", "Keep", "Remove", "Keep"];
 
 // function removeEveryOther(arr) {
-  
+   
 // }
 
 // console.log(removeEveryOther(arr)); // ["Keep", "Keep", "Keep"]
@@ -1946,7 +1946,7 @@
 
 // let array = [1, 2, 1, 1, 3, 2];
 
-// const distinct =
+// const distinct = 
 
 // console.log(distinct(array)); // [1, 2, 3]
 
@@ -2076,7 +2076,7 @@
 // };
 
 // function listToArray(list){
-    
+   
 // }
 
 // console.log(listToArray(list1));
@@ -2276,7 +2276,7 @@
 
 
 // function deepEqual(a, b){
-  
+
 // }
  
  
