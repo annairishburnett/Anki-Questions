@@ -226,7 +226,7 @@
 
 // const shuffle = arr => {
    
-    
+
 // }
 
 // console.log(shuffle(arr));
@@ -1160,7 +1160,7 @@
 
 
 // function multiplicationTable(num){
-   
+  
 // }
 
 // console.log(multiplicationTable(5));
@@ -1285,7 +1285,10 @@
 
 
 
-
+// function range(start, end, step = 1){
+    
+// }
+// console.log(range(5, 2, -1));
 
 
 
